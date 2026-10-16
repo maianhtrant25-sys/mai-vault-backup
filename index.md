@@ -16,10 +16,17 @@
 
 - [[Logs/2026-10-15]] - vault initialized with `_CLAUDE.md`, `index.md`, `Logs/`
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
+- [[Logs/2026-10-17]] - health and training data pipeline created: project, two task notes, board cards
 
 ## Tasks
 
 - [[Create the FatSecret developer app]] - 🟡 waiting - register the FatSecret developer app so the agent can write diary entries (keys via env only)
+- [[Set up Health Auto Export on Mai's iPhone]] - 🟡 waiting - install the Apple Health exporter and its two JSON automations
+- [[Build the health data ingest]] - 🟢 waiting - fetch, parse and write daily health notes on the host
+
+## Projects
+
+- [[Projects/Health and training data pipeline]] - planning - health, training and nutrition data into the vault (opened 2026-10-16)
 
 ## Boards
 

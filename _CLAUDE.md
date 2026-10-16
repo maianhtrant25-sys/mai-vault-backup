@@ -266,7 +266,8 @@ Completed:
 
 ## Projects Currently Active
 
-- None recorded yet. Add project notes to `Projects/` and link them here.
+- [[Projects/Health and training data pipeline]] - health, training and nutrition data into the vault (planning, opened 2026-10-16)
+- Nutrition prerequisite: [[Create the FatSecret developer app]] - FatSecret developer app credentials
 
 ---
 

@@ -17,6 +17,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 - [[log]] - how the operation log works; entries live in `Logs/YYYY-MM-DD.md`
 - [[Logs/2026-10-15]] - this vault's initialization entry
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
+- [[Logs/2026-10-17]] - health and training data pipeline created: project, two task notes, board cards
 
 ## Bases (live views)
 

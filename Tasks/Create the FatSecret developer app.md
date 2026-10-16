@@ -6,6 +6,8 @@ priority: 🟡
 tags:
   - task
   - fatsecret
+related-projects:
+  - "[[Projects/Health and training data pipeline]]"
 ai-first: true
 ---
 
