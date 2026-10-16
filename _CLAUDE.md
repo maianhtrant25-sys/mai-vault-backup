@@ -151,6 +151,8 @@ Presentation layer on top of the rules above. Purpose: notes the owner can scan 
 
 Scope: notes written from now on plus pointwise edits - never a wholesale restyle of existing notes. `Daily/` notes and their generator are exempt at this stage. Frontmatter fields, note types, statuses, filenames, folders, tags, wikilinks, dates and the meaning of a note are never changed for formatting reasons.
 
+**Language (owner instruction, 2026-10-16):** this section, every formatting instruction it references and every note in this vault are written in **English**. The vault never follows the language of the chat, and these rules are never translated into another language - only their wording may be clarified.
+
 ### A - Emoji mark section meaning (fixed vocabulary)
 
 Use only these eight, and only where the meaning matches. Do not decorate every heading:
