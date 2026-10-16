@@ -39,7 +39,7 @@ Before declaring a bug, drafting a fix, or writing architecture: read the actual
 - **Owner:** Mai
 - **Vault name:** `mai-vault`
 - **Primary purpose:** Personal second brain - work notes, projects, knowledge, decisions, and captures for long-term agent retrieval.
-- **Last updated:** 2026-10-15
+- **Last updated:** 2026-10-16
 - **Initialized by:** Hermes agent (`/obsidian-init`) on 2026-10-15 - see [[Logs/2026-10-15]]
 
 ---
@@ -142,6 +142,80 @@ ai-first: true
 ```
 
 Note types used here: `daily` | `project` | `task` | `person` | `devlog` | `log` | `idea` | `decision` | `adr` | `meeting` | `review` | `source` | `note`
+
+---
+
+## Visual Formatting Rules (owner-approved 2026-10-16)
+
+Presentation layer on top of the rules above. Purpose: notes the owner can scan fast, including on a phone, **without harming agent retrieval**. If these rules and the AI-first rules above ever conflict, the AI-first rules win.
+
+Scope: notes written from now on plus pointwise edits - never a wholesale restyle of existing notes. `Daily/` notes and their generator are exempt at this stage. Frontmatter fields, note types, statuses, filenames, folders, tags, wikilinks, dates and the meaning of a note are never changed for formatting reasons.
+
+### A - Emoji mark section meaning (fixed vocabulary)
+
+Use only these eight, and only where the meaning matches. Do not decorate every heading:
+
+| Emoji | Meaning |
+|---|---|
+| 🎯 | focus, current priority |
+| ⏰ | deadlines, overdue |
+| ⚠️ | risks, blockers, known problems |
+| 💡 | decisions |
+| 🔧 | troubleshooting, fixes |
+| 🔍 | findings, research |
+| ✅ | completed, result |
+| 🔗 | links and related material |
+
+Headings that do not match the vocabulary (`Definition`, `How to apply`, `About the person`, `Architecture`, ...) stay emoji-free. Short idea and quick-capture notes stay plain - they need no template and no decoration.
+
+### B - Callouts only for the exceptional
+
+| Callout | Use for |
+|---|---|
+| `> [!important]` | a decision that changed direction |
+| `> [!warning]` | an active risk or blocker |
+| `> [!question]` | an open question that needs the owner's answer |
+
+Syntax: the block starts with `> [!type]` on its own line and every following line of the block starts with `>`. Ordinary notes, every conclusion, or every task never go into a coloured box.
+
+### C - Dated entries without a wall of text
+
+- One fact, up to ~40 words, with one link: a single bullet is enough.
+- Several facts, or a "why": a bold one-line lead with the date, then 2-4 short sub-bullets - what was done, why, the result, links.
+- Never invent reasons or results to fill the shape.
+
+Pattern:
+
+```markdown
+**2026-10-16** - Short title
+
+- What was done.
+- Why it was needed / what caused it.
+- 🔗 Result or link.
+```
+
+### D - Tables and images
+
+- Phone-first: ~4 columns and 6-8 rows at most per table; larger comparisons become a list with bold labels.
+- Images only when they carry information (a screenshot, a meaningful diagram, Mermaid). No decorative pictures.
+
+### E - Optional `summary:` field
+
+- One plain sentence for the preview in Bases, in notes where it genuinely helps.
+- An addition, never a replacement for the `## For future agent` preamble.
+- One line, no wikilinks, no complex syntax. Never added to every note automatically, and no new Bases are created for it.
+
+### F - Section length and white space
+
+- A section past ~15 lines is a hint to consider subheadings - a soft trigger, not a hard limit.
+- Do not mechanically split a coherent thought, and do not spawn extra notes just to shorten one.
+- One blank line between paragraphs, headings and standalone blocks; keep list nesting and callout syntax valid.
+
+### G - Visible confidence markers
+
+Where a claim already carries an OSB confidence level (`stated | high | medium | speculation`), render it in text as 💬 stated, 🟢 high, 🟡 medium, 🟠 speculation - e.g. `(🟠 speculation)`. Visual only, for an assessment that is already justified: confidence is never assigned automatically and never attached to every sentence. `confidence` values in frontmatter stay plain text without emoji.
+
+*Added 2026-10-16 at the owner's request (Telegram). Verified as Markdown and for structural compatibility only - rendering inside the Obsidian app was not verified from the agent host.*
 
 ---
 

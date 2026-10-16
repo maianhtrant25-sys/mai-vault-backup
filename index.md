@@ -15,6 +15,7 @@
 ## Logs
 
 - [[Logs/2026-10-15]] - vault initialized with `_CLAUDE.md`, `index.md`, `Logs/`
+- [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
 
 ## Knowledge
 

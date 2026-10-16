@@ -10,12 +10,13 @@ ai-first: true
 
 Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It carries no content of its own - it points at the catalog (`index.md`), the operation log, the Bases views, and the operating manual (`_CLAUDE.md`). Read `_CLAUDE.md` before writing anything in this vault.
 
-## Manual and catalog
+## 🔗 Manual and catalog
 
 - [[_CLAUDE.md]] - operating manual for this vault (read first)
 - [[index]] - catalog of every page, grouped by folder
 - [[log]] - how the operation log works; entries live in `Logs/YYYY-MM-DD.md`
 - [[Logs/2026-10-15]] - this vault's initialization entry
+- [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
 
 ## Bases (live views)
 
@@ -28,7 +29,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 
 `Daily/` · `Projects/` · `Tasks/` · `Boards/` · `People/` · `Dev Logs/` · `Knowledge/` · `Ideas/` · `Meetings/` · `Reviews/` · `Research/` · `Templates/` · `Logs/` · `Bases/`
 
-## Status (as of 2026-10-15)
+## 🎯 Status (as of 2026-10-15)
 
-- Vault skeleton initialized by the Hermes agent: `_CLAUDE.md`, `index.md`, `log.md`, `Logs/`, `Bases/`, folders.
-- No owner content yet - devices (laptop, iPhone) have not completed their initial LiveSync pull at initialization time.
+- ✅ Skeleton initialized by the Hermes agent: `_CLAUDE.md`, `index.md`, `log.md`, `Logs/`, `Bases/`, folders.
+- ⚠️ No owner content yet - devices (laptop, iPhone) have not completed their initial LiveSync pull at initialization time.
