@@ -17,6 +17,14 @@
 - [[Logs/2026-10-15]] - vault initialized with `_CLAUDE.md`, `index.md`, `Logs/`
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
 
+## Tasks
+
+- [[Create the FatSecret developer app]] - 🟡 waiting - register the FatSecret developer app so the agent can write diary entries (keys via env only)
+
+## Boards
+
+- [[Main]] - kanban board: 📥 Backlog / 📋 This Week / 🔨 In Progress / ⏳ Waiting On / ✅ Done
+
 ## Knowledge
 
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
