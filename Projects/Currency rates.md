@@ -19,6 +19,7 @@ Daily currency tracking for Mai, who receives RUB and converts it into VND throu
 - Step order in the job: (1) wake the browser, (2) `/opt/data/scripts/collect_bank_rates.py` for the Moscow bank panel, (3) `python3 /opt/data/scripts/currency_rates.py` for the deterministic digest and both vault writes, (4) post the digest.
 - The browser step cannot be skipped: Banki.ru is a JavaScript app and only a real Chrome renders it. A cold browser makes every bank come back `n/a`, so the job wakes it first.
 - Timing rationale: the Bank of Russia publishes around 11:30 MSK (effective the next day); the SBV publishes around 08:00 ICT = 04:00 MSK.
+- Weekends: MOEX has no session, so the digest's MOEX row shows the last session's close and says so in a footnote; the CBR does publish a rate for Saturday that then carries into Monday. The MOEX board reports no `TRADEDATE` - the session date comes from `SYSTIME`.
 
 ## Moscow bank panel (chosen 2026-10-17)
 
