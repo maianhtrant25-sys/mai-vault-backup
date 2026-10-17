@@ -59,7 +59,7 @@ The aggregator's own Moscow list shows only a rate-ranked top 10 that changes me
 ## Mai's own rate
 
 - Canonical unit: **VND per 1 RUB**. Her route is RUB → USD → VND, so the effective rate is `VND per USD / RUB per USD`.
-- She sends it in chat and it is recorded with `python3 /opt/data/scripts/currency_rates.py --set-rate <value>`; two legs also work (`--set-rate --usd-rub 84.5 --usd-vnd 25700`), and a single value below 1 is read as RUB per 1 VND and inverted. Optional `--amount`, `--dir r2v|v2r`, `--note`, `--date`.
+- She sends it in chat and it is recorded with `python3 /opt/data/scripts/currency_rates.py --set-rate <value>`; two legs also work (`--set-rate --usd-rub 84.5 --usd-vnd 25700`), and a single value below 1 is read as RUB per 1 VND and inverted. Optional `--amount` (RUB worth), `--vnd` (the VND volume she states - the note prints both), `--dir r2v|v2r`, `--note`, `--date`.
 - Raw entries (legs, amount, direction, note) live outside the vault in `/opt/data/cache/currency-rates/my-rates.json`; the readable row goes to [[Knowledge/Mai's RUB-VND conversions]].
 - Market comparison in that note: today's cheapest Moscow bank price for buying a dollar combined with the Vietcombank transfer rate; `Diff = Mine / Market - 1`, so a positive number means she did better than the market.
 
@@ -99,7 +99,7 @@ The aggregator's own Moscow list shows only a rate-ranked top 10 that changes me
 
 **2026-10-17 (fourth pass, this thread)**
 
-- Alerts added as a **second job**, deliberately outside the daily digest: three silent checks a day, a message only when a threshold is crossed, delivered into the same topic. The digest keeps its own rule - no thresholds, no commentary.
+- Alerts added as a **second job**, deliberately outside the daily digest: three silent checks a day, a message only when a threshold is crossed, delivered into the same topic. The digest keeps its own rule - no thresholds, no commentary. Confirmed by Mai on 2026-10-17: keep the three ticks, silent when nothing crosses.
 - The watched USD/VND series is **market mid**, chosen by Mai as a first pass ("tạm thời"). The rejected alternatives and why: Vietcombank transfer (25,700 on 17 October - already below her 25,800 level, so it would have alerted every single day), Vietcombank sell (26,080) and the CBR cross (25,637).
-- Her 16 October lot is one purchase of **350,000,000 VND at 83.50 ₽ per 26,000 VND** (about 1,124,038 ₽), of which 10,586,826 VND were sold on 17 October, leaving about **339,400,000 VND** on the same cost basis. The 35,000 ₽ currently shown for that row was the agent's own inference from the profit, never her number; correcting the row waits on her confirmation.
+- Her 16 October lot is one purchase of **350,000,000 VND at 83.50 ₽ per 26,000 VND** (1,124,038 ₽ worth), of which 10,586,826 VND were sold on 17 October, leaving about **339,400,000 VND** on the same cost basis. The 35,000 ₽ that first stood in that row was the agent's own inference from a hypothetical, never her number; she asked for the amount to be corrected on 2026-10-17 and the row now reads `1,124,038 (350,000,000 VND)`.
 - Finding: her 83.50 was cheaper than every route then available - the 16 October market (84.93, CBR cross, no bank data yet) and on 17 October both the cheapest Moscow bank route (85.49) and the dearest one (87.59).

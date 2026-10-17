@@ -41,6 +41,6 @@ match, so overlapping positions would need more bookkeeping. `Total profit` sums
 | Date | Amount (₽ worth) | What she did | Your rate (₽ / 26,000 VND) | Market (₽ / 26,000 VND) | Result | Profit (₽) |
 |---|---|---|---|---|---|---|
 | 2026-10-17 | 34,000 | sent VND, got RUB | 85.80 | 84.65 | ✅ got 1.15 ₽ more than the market (1.36%) | **936.53** |
-| 2026-10-16 | 35,000 | sent RUB, got VND | 83.50 | 84.93 | ✅ paid 1.43 ₽ less than the market (1.71%) | — |
+| 2026-10-16 | 1,124,038 (350,000,000 VND) | sent RUB, got VND | 83.50 | 84.93 | ✅ paid 1.43 ₽ less than the market (1.71%) | — |
 
 **Total profit: 936.53 ₽**
