@@ -20,6 +20,10 @@ Daily currency tracking for Mai, who receives RUB and converts it into VND throu
 - The browser step cannot be skipped: Banki.ru is a JavaScript app and only a real Chrome renders it. A cold browser makes every bank come back `n/a`, so the job wakes it first.
 - Timing rationale: the Bank of Russia publishes around 11:30 MSK (effective the next day); the SBV publishes around 08:00 ICT = 04:00 MSK.
 - Weekends: MOEX has no session, so the digest's MOEX row shows the last session's close and says so in a footnote; the CBR does publish a rate for Saturday that then carries into Monday. The MOEX board reports no `TRADEDATE` - the session date comes from `SYSTIME`.
+- Alert job: `currency-rate-alerts` (id `0f8ab4f8b07d`) - script-only, **no LLM**, three times a day (13:00, 16:00, 19:00 MSK) into the same topic. It runs `/opt/data/scripts/currency_alert_tick.py`, which refreshes today's snapshot and prints **nothing** unless one of Mai's thresholds is crossed, so an empty output sends no message at all. Thresholds and the watched series: `/opt/data/cache/currency-rates/alert-config.json`; diagnostics: `/opt/data/cache/currency-rates/alert-tick.log`.
+- Why those hours: the 12:30 digest run is what collects the bank panel, and Chrome cannot be started outside a live agent session - so 13:00 is the first tick with the day's real panel, 16:00 is the Moscow afternoon, 19:00 covers the MOEX close (18:40).
+- Thresholds (Mai, 2026-10-17): the market rate for her RUB->VND direction at least **±3 ₽ per 26,000 VND** away from her reference rate (her latest RUB->VND conversion); the watched USD/VND series moving **±200** against the previous day; and that series dropping below **25,800**. Watched series: **market mid** (her choice, "tạm thời" = for now). One alert per rule per day.
+- Failure rule: a source failure that hides real information (no snapshot, the watched series n/a) is reported once a day, in Vietnamese; a cold browser is expected between digests and stays silent.
 
 ## Moscow bank panel (chosen 2026-10-17)
 
@@ -92,3 +96,10 @@ The aggregator's own Moscow list shows only a rate-ranked top 10 that changes me
 - Amount confirmed: the 2026-10-17 conversion is 34,000 RUB worth of VND - 10,586,826 VND at her 16 October entry rate - which sells for 34,936.53 RUB, a profit of **936.53 RUB**.
 - The tables and the digest speak her own unit: **₽ per 26,000 VND**, with the outcome in plain words ("paid 1.43 ₽ less" / "got 1.15 ₽ more"). The canonical VND-per-1-RUB value stays in the JSON store only, because showing it confused her.
 - Profit is computed and totalled: a VND→RUB deal earns `amount × (cost basis / selling rate − 1)`, the cost basis being the rate of her latest RUB→VND purchase at or before it. Working rhythm she set: the digest supplies the market rate, she answers with her rate and volume, the agent reports what she earned.
+
+**2026-10-17 (fourth pass, this thread)**
+
+- Alerts added as a **second job**, deliberately outside the daily digest: three silent checks a day, a message only when a threshold is crossed, delivered into the same topic. The digest keeps its own rule - no thresholds, no commentary.
+- The watched USD/VND series is **market mid**, chosen by Mai as a first pass ("tạm thời"). The rejected alternatives and why: Vietcombank transfer (25,700 on 17 October - already below her 25,800 level, so it would have alerted every single day), Vietcombank sell (26,080) and the CBR cross (25,637).
+- Her 16 October lot is one purchase of **350,000,000 VND at 83.50 ₽ per 26,000 VND** (about 1,124,038 ₽), of which 10,586,826 VND were sold on 17 October, leaving about **339,400,000 VND** on the same cost basis. The 35,000 ₽ currently shown for that row was the agent's own inference from the profit, never her number; correcting the row waits on her confirmation.
+- Finding: her 83.50 was cheaper than every route then available - the 16 October market (84.93, CBR cross, no bank data yet) and on 17 October both the cheapest Moscow bank route (85.49) and the dearest one (87.59).
