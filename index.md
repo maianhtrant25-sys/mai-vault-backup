@@ -16,7 +16,7 @@
 
 - [[Logs/2026-10-15]] - vault initialized with `_CLAUDE.md`, `index.md`, `Logs/`
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
-- [[Logs/2026-10-17]] - health and training data pipeline created: project, two task notes, board cards
+- [[Logs/2026-10-17]] - health and training data pipeline created; currency digest extended with the Moscow bank panel and Mai's own rate
 
 ## Tasks
 
@@ -27,7 +27,7 @@
 ## Projects
 
 - [[Projects/Health and training data pipeline]] - planning - health, training and nutrition data into the vault (opened 2026-10-16)
-- [[Projects/Currency rates]] - active - daily USD/RUB and USD/VND digest, central bank plus market (opened 2026-10-17)
+- [[Projects/Currency rates]] - active - daily USD/RUB and USD/VND digest, central bank plus a fixed Moscow bank panel and Mai's own conversion rate (opened 2026-10-17)
 
 ## Boards
 
@@ -35,7 +35,8 @@
 
 ## Knowledge
 
-- [[Knowledge/Currency rates history]] - rolling daily table of the central-bank and market rates for USD/RUB and USD/VND (maintained by the collector script; newest first)
+- [[Knowledge/Currency rates history]] - rolling daily table of the central-bank, MOEX and Moscow bank rates for USD/RUB plus USD/VND, and today's bank panel (maintained by the collector script; newest first)
+- [[Knowledge/Mai's RUB-VND conversions]] - Mai's own RUB to VND conversion rate per day, next to what the market offered that day
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
 
 ## Bases

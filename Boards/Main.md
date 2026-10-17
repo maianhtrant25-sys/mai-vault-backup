@@ -13,6 +13,8 @@ kanban-plugin: board
 
 ## 📋 This Week
 
+- [ ] 🟡 **Confirm the format of Mai's daily rate** · @TBD
+	Which form she sends (effective VND per RUB, two legs, or RUB per VND) and whether the 12:30 digest should nudge her when a day is missing. The tracker stores all three forms either way; this only settles the reading and the reminder. See [[Projects/Currency rates]].
 - [ ] 🟡 **Create the FatSecret developer app** · @TBD
 	Konstantin (Hermes-side operator) registers the app at platform.fatsecret.com/register and delivers Client ID/Secret + Consumer Key/Secret through the deployment env only. Unblocks per-ingredient diary logging for Mai. See [[Create the FatSecret developer app]].
 - [ ] 🟡 **Choose the health data path and vault home** · @TBD
