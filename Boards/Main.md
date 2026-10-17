@@ -21,6 +21,8 @@ kanban-plugin: board
 	Premium tier plus two JSON automations (daily metrics, workouts); destination follows the path decision. See [[Set up Health Auto Export on Mai's iPhone]].
 - [ ] 🟢 **Build the health data ingest** · @TBD
 	Fetch, parse, write the day's note, expose trends through a Bases view; the weekly review cron into `Reviews/` is part of it. See [[Build the health data ingest]].
+- [ ] 🟡 **Source the SBV central rate for USD/VND** · @TBD
+	The State Bank of Vietnam portal is a JavaScript app and returns an application error to our IPs; the daily digest ships the CBR cross plus Vietcombank instead. Options: a rate API with SBV coverage, a Vietnamese news mirror, or proxying the SBV page. See [[Projects/Currency rates]].
 
 ## 🔨 In Progress
 

@@ -27,6 +27,7 @@
 ## Projects
 
 - [[Projects/Health and training data pipeline]] - planning - health, training and nutrition data into the vault (opened 2026-10-16)
+- [[Projects/Currency rates]] - active - daily USD/RUB and USD/VND digest, central bank plus market (opened 2026-10-17)
 
 ## Boards
 
@@ -34,6 +35,7 @@
 
 ## Knowledge
 
+- [[Knowledge/Currency rates history]] - rolling daily table of the central-bank and market rates for USD/RUB and USD/VND (maintained by the collector script; newest first)
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
 
 ## Bases

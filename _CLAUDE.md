@@ -267,6 +267,7 @@ Completed:
 ## Projects Currently Active
 
 - [[Projects/Health and training data pipeline]] - health, training and nutrition data into the vault (planning, opened 2026-10-16)
+- [[Projects/Currency rates]] - daily USD/RUB and USD/VND digest, central bank plus market (active, opened 2026-10-17)
 - Nutrition prerequisite: [[Create the FatSecret developer app]] - FatSecret developer app credentials
 
 ---
