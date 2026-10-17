@@ -68,7 +68,6 @@ The aggregator's own Moscow list shows only a rate-ranked top 10 that changes me
 
 ## Open items
 
-- ⚠️ Confirm the amount Mai converts: her 2026-10-17 rate is recorded but the volume is not - her stated 938 RUB profit implies about 10.6M VND, roughly 34,050 RUB of the 35,000 RUB position opened on 16 October. Card on [[Main]].
 - ⚠️ Source the SBV central rate (a news mirror or a small exchange-rate API would do), or decide to publish the CBR cross plus Vietcombank instead. Card on [[Main]].
 
 ## Key Decisions
@@ -90,3 +89,6 @@ The aggregator's own Moscow list shows only a rate-ranked top 10 that changes me
 
 - The market comparison is direction-aware. A VND→RUB day is measured against the mirror route (Vietcombank's sell price for a dollar divided by the best panel bank bid) and `Diff` is inverted, so a positive figure always means Mai did better than the market whichever way the money went. Before the fix her 85.8-per-26,000 deal read as -0.37% against the RUB→VND route; the corrected figure is +1.36%.
 - `/opt/data/scripts/rub_vnd_deal.py` added for one-off trade assessments: profit, derived volume and every market route expressed in her own units (RUB per 26,000 VND), with all inputs printed.
+- Amount confirmed: the 2026-10-17 conversion is 34,000 RUB worth of VND - 10,586,826 VND at her 16 October entry rate - which sells for 34,936.53 RUB, a profit of **936.53 RUB**.
+- The tables and the digest speak her own unit: **₽ per 26,000 VND**, with the outcome in plain words ("paid 1.43 ₽ less" / "got 1.15 ₽ more"). The canonical VND-per-1-RUB value stays in the JSON store only, because showing it confused her.
+- Profit is computed and totalled: a VND→RUB deal earns `amount × (cost basis / selling rate − 1)`, the cost basis being the rate of her latest RUB→VND purchase at or before it. Working rhythm she set: the digest supplies the market rate, she answers with her rate and volume, the agent reports what she earned.
