@@ -13,8 +13,6 @@ kanban-plugin: board
 
 ## 📋 This Week
 
-- [ ] 🟡 **Create the FatSecret developer app** · @TBD
-	Konstantin (Hermes-side operator) registers the app at platform.fatsecret.com/register and delivers Client ID/Secret + Consumer Key/Secret through the deployment env only. Unblocks per-ingredient diary logging for Mai. See [[Create the FatSecret developer app]].
 - [ ] 🟡 **Choose the health data path and vault home** · @TBD
 	Mai and Konstantin pick between cloud-drive pull, our own ingest endpoint, or a Shortcut writing into the vault; also whether health data gets a new `Health/` folder or `Daily/` frontmatter. Blocks the pipeline. See [[Projects/Health and training data pipeline]].
 - [ ] 🟡 **Set up Health Auto Export on Mai's iPhone** · @TBD
@@ -25,6 +23,9 @@ kanban-plugin: board
 	The State Bank of Vietnam portal is a JavaScript app and returns an application error to our IPs; the daily digest ships the CBR cross plus Vietcombank instead. Options: a rate API with SBV coverage, a Vietnamese news mirror, or proxying the SBV page. See [[Projects/Currency rates]].
 
 ## 🔨 In Progress
+
+- [ ] 🟡 **Create the FatSecret developer app** · @TBD
+	Konstantin registered on platform.fatsecret.com on 2026-10-18. Next: generate the keys, whitelist IP 143.20.37.247, then Mai's 3-legged OAuth 1.0 approval, then one live diary write/read test. See [[Create the FatSecret developer app]].
 
 ## ⏳ Waiting On
 

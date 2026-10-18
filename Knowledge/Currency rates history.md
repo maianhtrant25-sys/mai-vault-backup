@@ -1,5 +1,5 @@
 ---
-date: 2026-10-17
+date: 2026-10-18
 type: note
 tags:
   - finance
@@ -28,6 +28,7 @@ never estimated.
 
 | Date | CBR USD/RUB | MOEX USD/RUB | Banks buy USD | Banks sell USD | VCB transfer |
 |---|---|---|---|---|---|
+| 2026-10-18 | 83.6177 | 83.73 | 84.50 | 85.01 | 25,700 |
 | 2026-10-17 | 83.6177 | 83.73 | 84.50 | 84.91 | 25,700 |
 
 ## Moscow bank panel (latest snapshot)
@@ -43,4 +44,4 @@ office detail lives in `/opt/data/cache/currency-rates/banks-<date>.json`.
 | ПСБ | 86.58 | 80.82 | 25 |
 | Ак Барс Банк | 84.50 | 84.25 | 3 |
 | Экспобанк | 85.90 | 84.20 | 4 |
-| КАМКОМБАНК | 85.01 | 84.91 | 35 |
+| КАМКОМБАНК | 85.02 | 85.01 | 35 |
