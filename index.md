@@ -17,6 +17,7 @@
 - [[Logs/2026-10-15]] - vault initialized with `_CLAUDE.md`, `index.md`, `Logs/`
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
 - [[Logs/2026-10-17]] - health and training data pipeline created; currency digest extended with the Moscow bank panel and Mai's own rate
+- [[Logs/2026-10-18]] - FatSecret task closed: keys verified live, Mai's authorization done, per-ingredient diary write tested and rolled back
 
 ## Tasks
 

@@ -24,12 +24,11 @@ kanban-plugin: board
 
 ## 🔨 In Progress
 
-- [ ] 🟡 **Create the FatSecret developer app** · @TBD
-	Konstantin registered on platform.fatsecret.com on 2026-10-18. Next: generate the keys, whitelist IP 143.20.37.247, then Mai's 3-legged OAuth 1.0 approval, then one live diary write/read test. See [[Create the FatSecret developer app]].
-
 ## ⏳ Waiting On
 
 ## ✅ Done
 
+- [x] 🟡 **Create the FatSecret developer app** · @2026-10-18
+	Registered on platform.fatsecret.com, keys verified live, Mai authorized the app, and a per-ingredient diary entry was created, read back and deleted. See [[Create the FatSecret developer app]].
 - [x] 🟡 **Confirm the format of Mai's daily rate** · @2026-10-17
 	Resolved: she quotes a pair as "<RUB> / 26,000 VND" together with a direction, e.g. "85.8 / 26000" for VND→RUB. The tracker reads every form, and each day is now compared against the market route for the direction she actually used. No digest nudge needed. See [[Projects/Currency rates]].

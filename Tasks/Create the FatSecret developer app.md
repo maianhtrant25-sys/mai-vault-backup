@@ -1,7 +1,7 @@
 ---
 date: 2026-10-16
 type: task
-status: in-progress
+status: done
 priority: 🟡
 tags:
   - task
@@ -36,8 +36,9 @@ Tier check (2026-10-18): the docs mark Premier-only methods with an asterisk, an
 - Then the OAuth 1.0 3-legged flow, done by **Mai on her own fatsecret.com account**: `POST https://authentication.fatsecret.com/oauth/request_token` (callback `oob`), `GET .../oauth/authorize?oauth_token=...`, then `GET .../oauth/access_token` with the verifier she is shown. She approves; the agent never sees her password.
 - Then one live test: `foods.search` for a food_id, `food_entry.create` (food_id, food_entry_name, serving_id, number_of_units, meal, date as days since 1970-01-01), read back with `food_entries.get`, remove with `food_entry.delete`.
 - Credentials travel through the deployment env only (`/opt/data/.env`: `FATSECRET_CONSUMER_KEY`, `FATSECRET_CONSUMER_SECRET`, `FATSECRET_CLIENT_ID`, `FATSECRET_CLIENT_SECRET`, then the access-token pair) - never in this vault, never in chat.
+- ✅ 2026-10-18, done: the four keys answered a live signed `foods.search` (HTTP 200, 2,005 results), Mai approved the app on her own account, the verifier was exchanged for an access token, and a test entry was created, read back and deleted in her real diary. Client: `/opt/data/scripts/fatsecret.py`.
 
 ## Status
 
-- 🔗 Card moved to `🔨 In Progress` on [[Main]].
-- Fallback if the tier blocks writes: the agent computes kcal / protein / carbs / fat per ingredient and Mai quick-adds them in the app.
+- ✅ Card moved to `✅ Done` on [[Main]] (2026-10-18).
+- The Basic edition does allow diary writes, so the manual fallback is not needed. Remember the unit rule from the test: for a gram serving `number_of_units` is grams, for a named serving it is the count of servings.
