@@ -268,6 +268,7 @@ Completed:
 
 - [[Projects/Health and training data pipeline]] - health, training and nutrition data into the vault (planning, opened 2026-10-16)
 - [[Projects/Currency rates]] - daily USD/RUB and USD/VND digest, central bank plus market (active, opened 2026-10-17)
+- [[Projects/Daily learning - AI and Chinese]] - 15 minutes a day, practical AI plus beginner Mandarin, one-week trial from 2026-10-19 (active, opened 2026-10-18)
 - Nutrition prerequisite: [[Create the FatSecret developer app]] - FatSecret developer app credentials
 
 ---

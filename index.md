@@ -29,6 +29,7 @@
 
 - [[Projects/Health and training data pipeline]] - planning - health, training and nutrition data into the vault (opened 2026-10-16)
 - [[Projects/Currency rates]] - active - daily USD/RUB and USD/VND digest, central bank plus a fixed Moscow bank panel and Mai's own conversion rate (opened 2026-10-17)
+- [[Projects/Daily learning - AI and Chinese]] - active - 15 minutes a day: practical AI four days a week and beginner Mandarin three days a week (opened 2026-10-18)
 
 ## Boards
 

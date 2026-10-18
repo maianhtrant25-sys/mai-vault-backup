@@ -24,6 +24,9 @@ kanban-plugin: board
 
 ## 🔨 In Progress
 
+- [ ] 🟡 **Daily learning: AI and Chinese** · @2026-10-19
+	15 minutes a day in two touchpoints: a 10-minute noon lesson and a 5-minute bedtime recall. Four AI days and three Mandarin days per week; one-week trial 2026-10-19 to 2026-10-25. See [[Projects/Daily learning - AI and Chinese]].
+
 ## ⏳ Waiting On
 
 ## ✅ Done
