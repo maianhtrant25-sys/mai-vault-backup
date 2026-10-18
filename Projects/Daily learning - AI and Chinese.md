@@ -29,6 +29,7 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 - **Bedtime - 5 minutes:** quick recall, three questions answered by voice message or one line of text.
 - Total 15 minutes a day, 105 minutes a week - inside the one-to-two hour weekly budget she set.
 - Weekly split: four AI days (60 minutes) and three Mandarin days (45 minutes).
+- Delivery: Telegram forum topic "📚 Học mỗi ngày" in the group `Em trợ lý`, thread id 456 - full target `telegram:-1003779912075:456` (created 2026-10-18 with `createForumTopic`, verified by a send/delete round trip). Both jobs post there, not in the main thread, so the daily lesson never buries other work.
 
 ## Daily lesson format
 
@@ -44,9 +45,13 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 - Counted from the scheduler reports under `$HERMES_HOME/cron/output/<job_id>/`, not from memory.
 - Review on 2026-10-25: keep both slots, keep one, or move the times.
 
+## 💡 Decisions
+
+- **2026-10-18 - voice for daily lessons:** `vi-VN-HoaiMyNeural` (edge-tts, rate -5%). Mai compared it against the male `vi-VN-NamMinhNeural` and a Google `gTTS` render of the same sentence and chose HoaiMy: "not northern, but rounder and clearer". A true northern accent was not available from either free engine.
+
 ## Progress
 
-- **2026-10-18** - project opened, two daily jobs scheduled, one-week trial agreed. No lesson delivered yet.
+- **2026-10-18** - project opened, two daily jobs scheduled, one-week trial agreed, voice fixed to `vi-VN-HoaiMyNeural`. No lesson delivered yet.
 
 ## ⚠️ Risks and open questions
 
