@@ -19,6 +19,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
 - [[Logs/2026-10-17]] - health and training data pipeline created: project, two task notes, board cards
 - [[Logs/2026-10-18]] - FatSecret task closed: keys verified, authorization done, diary write tested
+- [[Logs/2026-10-19]] - daily learning lesson moved from 12:30 to 10:00 MSK
 
 ## Bases (live views)
 

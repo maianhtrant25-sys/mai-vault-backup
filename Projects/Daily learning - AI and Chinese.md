@@ -1,6 +1,6 @@
 ---
 date: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-19
 type: project
 status: active
 tags:
@@ -10,7 +10,7 @@ tags:
 ai-first: true
 related-people: []
 related-projects: []
-summary: Daily 15-minute learning habit - practical AI four days a week, Mandarin three days a week, with a noon and a bedtime touchpoint.
+summary: Daily 15-minute learning habit - practical AI four days a week, Mandarin three days a week, with a 10:00 and a bedtime touchpoint.
 ---
 
 ## For future agent
@@ -25,7 +25,7 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 
 ## Schedule (owner-confirmed 2026-10-18)
 
-- **Noon - 10 minutes:** the day's new lesson.
+- **Morning (10:00 MSK) - 10 minutes:** the day's new lesson. Moved from 12:30 on 2026-10-19 at Mai's request - 12:30 was too late in her day.
 - **Bedtime - 5 minutes:** quick recall, three questions answered by voice message or one line of text.
 - Total 15 minutes a day, 105 minutes a week - inside the one-to-two hour weekly budget she set.
 - Weekly split: four AI days (60 minutes) and three Mandarin days (45 minutes).
@@ -41,16 +41,19 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 
 The point is to find out whether two daily touchpoints fit her day before any longer plan is agreed.
 
-- Success means: she opens at least 5 of the 7 noon lessons and answers at least 4 bedtime recalls.
+- Success means: she opens at least 5 of the 7 morning lessons and answers at least 4 bedtime recalls.
 - Counted from the scheduler reports under `$HERMES_HOME/cron/output/<job_id>/`, not from memory.
 - Review on 2026-10-25: keep both slots, keep one, or move the times.
 
 ## 💡 Decisions
 
+- **2026-10-19 - lesson slot moved to 10:00 MSK:** Mai found 12:30 too late and proposed "around 10". Job `e614cf9fbbd0` now runs `every day at 10:00`; the bedtime recall stays at 22:00. Today's lesson was fired manually at 10:02 so day one of the trial is not lost.
 - **2026-10-18 - voice for daily lessons:** `vi-VN-HoaiMyNeural` (edge-tts, rate -5%). Mai compared it against the male `vi-VN-NamMinhNeural` and a Google `gTTS` render of the same sentence and chose HoaiMy: "not northern, but rounder and clearer". A true northern accent was not available from either free engine.
 
 ## Progress
 
+- **2026-10-19** - morning: Anatomy of a good request - task, data, output shape
+- **2026-10-19** - lesson slot moved from 12:30 to 10:00 MSK; the day's lesson fired at 10:02.
 - **2026-10-18** - project opened, two daily jobs scheduled, one-week trial agreed, voice fixed to `vi-VN-HoaiMyNeural`. No lesson delivered yet.
 
 ## ⚠️ Risks and open questions
@@ -63,3 +66,4 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 - [[Main]] - board card in 🔨 In Progress
 - [[Logs/2026-10-18]] - opening entry
+- [[Logs/2026-10-19]] - lesson slot moved to 10:00

@@ -18,6 +18,7 @@
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes
 - [[Logs/2026-10-17]] - health and training data pipeline created; currency digest extended with the Moscow bank panel and Mai's own rate
 - [[Logs/2026-10-18]] - FatSecret task closed: keys verified live, Mai's authorization done, per-ingredient diary write tested and rolled back
+- [[Logs/2026-10-19]] - daily learning lesson slot moved from 12:30 to 10:00 MSK
 
 ## Tasks
 
