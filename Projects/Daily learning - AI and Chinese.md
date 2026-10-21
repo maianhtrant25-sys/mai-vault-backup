@@ -52,6 +52,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## Progress
 
+- **2026-10-21** - morning: Mandarin tones - why changing pitch changes the word
 - **2026-10-20** - morning: Two layers of agent memory - conversation thread vs vault note
 - **2026-10-19** - morning: Anatomy of a good request - task, data, output shape
 - **2026-10-19** - lesson slot moved from 12:30 to 10:00 MSK; the day's lesson fired at 10:02.
