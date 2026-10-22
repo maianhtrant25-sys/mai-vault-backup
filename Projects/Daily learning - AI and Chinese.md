@@ -52,6 +52,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## Progress
 
+- **2026-10-22** - morning: Draft first, then fix - why editing a rough answer beats writing a perfect request
 - **2026-10-21** - morning: Mandarin tones - why changing pitch changes the word
 - **2026-10-20** - morning: Two layers of agent memory - conversation thread vs vault note
 - **2026-10-19** - morning: Anatomy of a good request - task, data, output shape
