@@ -20,6 +20,7 @@
 - [[Logs/2026-10-18]] - FatSecret task closed: keys verified live, Mai's authorization done, per-ingredient diary write tested and rolled back
 - [[Logs/2026-10-19]] - daily learning lesson slot moved from 12:30 to 10:00 MSK
 - [[Logs/2026-10-20]] - currency digest tables fixed: blank line now before and after every table, so Telegram renders them
+- [[Logs/2026-10-24]] - cron wrapper switched off; daily lesson opens with "Daily learning" and no technical detail
 
 ## Tasks
 

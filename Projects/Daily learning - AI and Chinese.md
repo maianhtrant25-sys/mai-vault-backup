@@ -47,6 +47,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## 💡 Decisions
 
+- **2026-10-24 - lesson format: plain label, no technical detail:** at Konstantin's request the morning message now opens with the single line `**Daily learning**`, and `cron.wrap_response` is off for the whole profile, so no "Cronjob Response" header, job id or "stop/manage" footer reaches the chat. Lesson bodies stay Vietnamese; the label is English.
 - **2026-10-19 - lesson slot moved to 10:00 MSK:** Mai found 12:30 too late and proposed "around 10". Job `e614cf9fbbd0` now runs `every day at 10:00`; the bedtime recall stays at 22:00. Today's lesson was fired manually at 10:02 so day one of the trial is not lost.
 - **2026-10-18 - voice for daily lessons:** `vi-VN-HoaiMyNeural` (edge-tts, rate -5%). Mai compared it against the male `vi-VN-NamMinhNeural` and a Google `gTTS` render of the same sentence and chose HoaiMy: "not northern, but rounder and clearer". A true northern accent was not available from either free engine.
 
@@ -72,3 +73,4 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 - [[Main]] - board card in 🔨 In Progress
 - [[Logs/2026-10-18]] - opening entry
 - [[Logs/2026-10-19]] - lesson slot moved to 10:00
+- [[Logs/2026-10-24]] - cron wrapper off, lesson opens with "Daily learning"
