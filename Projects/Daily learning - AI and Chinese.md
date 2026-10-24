@@ -52,6 +52,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## Progress
 
+- **2026-10-24** - morning: Model writes text, tools do the work - why a confident answer is not proof the note changed
 - **2026-10-23** - morning: Mandarin measure words - why a counting word sits between number and noun
 - **2026-10-22** - morning: Draft first, then fix - why editing a rough answer beats writing a perfect request
 - **2026-10-21** - morning: Mandarin tones - why changing pitch changes the word
