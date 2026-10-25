@@ -22,6 +22,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 - [[Logs/2026-10-19]] - daily learning lesson moved from 12:30 to 10:00 MSK
 - [[Logs/2026-10-20]] - currency digest tables fixed (blank line before and after each table)
 - [[Logs/2026-10-24]] - cron wrapper off; lesson opens with "Daily learning"
+- [[Logs/2026-10-25]] - learning trial week reviewed; new format confirmed
 
 ## Bases (live views)
 

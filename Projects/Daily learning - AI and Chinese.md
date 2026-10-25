@@ -44,6 +44,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 - Success means: she opens at least 5 of the 7 morning lessons and answers at least 4 bedtime recalls.
 - Counted from the scheduler reports under `$HERMES_HOME/cron/output/<job_id>/`, not from memory.
 - Review on 2026-10-25: keep both slots, keep one, or move the times.
+- **Result (2026-10-25):** 7 of 7 morning lessons were delivered (reports `2026-10-19` to `2026-10-25` in `$HERMES_HOME/cron/output/e614cf9fbbd0/`), and 4 of 7 bedtime recalls were answered - on 20, 22, 23 and 25 October - which meets the four-answer bar exactly. Whether she opened the lessons cannot be measured from Telegram, so that half of the test is unproven. Both jobs are still running; the keep/keep-one/move decision is open with Mai.
 
 ## 💡 Decisions
 
@@ -53,6 +54,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## Progress
 
+- **2026-10-25** - trial week 19-25 reviewed: 7/7 lessons delivered, 4/7 recalls answered; new message format confirmed in production.
 - **2026-10-25** - morning: Mandarin yes/no questions - the particle 吗 (ma) at the end turns a statement into a question without changing word order
 - **2026-10-24** - morning: Model writes text, tools do the work - why a confident answer is not proof the note changed
 - **2026-10-23** - morning: Mandarin measure words - why a counting word sits between number and noun
@@ -75,3 +77,4 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 - [[Logs/2026-10-18]] - opening entry
 - [[Logs/2026-10-19]] - lesson slot moved to 10:00
 - [[Logs/2026-10-24]] - cron wrapper off, lesson opens with "Daily learning"
+- [[Logs/2026-10-25]] - trial week reviewed; new format confirmed in production
