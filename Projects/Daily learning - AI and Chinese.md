@@ -53,6 +53,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## Progress
 
+- **2026-10-25** - morning: Mandarin yes/no questions - the particle 吗 (ma) at the end turns a statement into a question without changing word order
 - **2026-10-24** - morning: Model writes text, tools do the work - why a confident answer is not proof the note changed
 - **2026-10-23** - morning: Mandarin measure words - why a counting word sits between number and noun
 - **2026-10-22** - morning: Draft first, then fix - why editing a rough answer beats writing a perfect request
