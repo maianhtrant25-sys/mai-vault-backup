@@ -19,7 +19,7 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 
 ## 🎯 Focus
 
-- **AI first, practically.** The first month is hands-on use of the agent in her daily life, not theory about models.
+- **AI first, practically.** She steered this on 2026-10-26 after the first trial: the AI lessons must serve her own work and her own judgement, not theory about models. Two strands, alternating: **AI as an employee** (Monday, Thursday) - one real task of hers handed to the assistant, the exact sentence to type, what to check in the answer; and **understanding AI so she is not fooled** (Tuesday, Saturday) - one failure mode, how to spot it, a two-minute test.
 - **Mandarin second, deliberately slow.** She picked Mandarin over Spanish on 2026-10-18 after the trade-off was stated: characters and tones make the first two months slower, while her Vietnamese ear and the Sino-Vietnamese vocabulary help later.
 - **Habit before depth.** Fifteen minutes every day for a week is worth more than a two-hour session that is never repeated.
 
