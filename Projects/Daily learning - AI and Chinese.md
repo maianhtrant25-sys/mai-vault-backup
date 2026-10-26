@@ -58,6 +58,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## 💡 Decisions
 
+- **2026-10-26 - teaching method agreed:** the AI lessons run as a cycle she set - one exercise, a short plain explanation, then her questions and the agent's answers, with the depth set by her questions. When she asks how the agent did something, the answer is the real process trace (queries, sources accepted and rejected, tool failures, how much was read, what stayed uncertain), not a retelling of the domain.
 - **2026-10-26 - four AI strands named by Mai:** later the same evening she made her wish concrete - applying the assistant to her daily work, making a skill for it, and knowing what to do when the assistant is fresh with nothing installed. The lesson prompt of job `e614cf9fbbd0` now assigns one strand per AI day (Monday work, Tuesday not being fooled, Thursday skills, Saturday setup), and tells the lesson never to assume she has root access or a terminal.
 - **2026-10-26 - AI content changed for a second trial week:** Mai found the first week's AI lessons too far from what she wants and picked two directions: AI as an employee, and understanding AI so she is not fooled. The lesson prompt of job `e614cf9fbbd0` now alternates those two strands on the four AI days; Mandarin days are untouched. Second trial 2026-10-27 to 2026-11-02, reviewed together before any longer plan.
 - **2026-10-24 - lesson format: plain label, no technical detail:** at Konstantin's request the morning message now opens with the single line `**Daily learning**`, and `cron.wrap_response` is off for the whole profile, so no "Cronjob Response" header, job id or "stop/manage" footer reaches the chat. Lesson bodies stay Vietnamese; the label is English.
@@ -66,6 +67,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-10-26** - teaching method agreed (exercise → short explanation → her questions); process traces on request.
 - **2026-10-26** - four AI strands fixed (work / not fooled / skills / standing it up); lesson prompt rewritten again the same evening.
 - **2026-10-26** - second trial agreed (27/10-02/11); AI lessons rewritten to two strands: employee and not-being-fooled.
 - **2026-10-26** - morning: Why one question can get two different answers - pinning the reply to a single named source so the model has nothing left to guess
