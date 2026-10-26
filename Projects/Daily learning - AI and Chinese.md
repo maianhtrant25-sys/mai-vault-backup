@@ -1,6 +1,6 @@
 ---
 date: 2026-10-18
-updated: 2026-10-19
+updated: 2026-10-26
 type: project
 status: active
 tags:
@@ -19,7 +19,7 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 
 ## 🎯 Focus
 
-- **AI first, practically.** She steered this on 2026-10-26 after the first trial: the AI lessons must serve her own work and her own judgement, not theory about models. Two strands, alternating: **AI as an employee** (Monday, Thursday) - one real task of hers handed to the assistant, the exact sentence to type, what to check in the answer; and **understanding AI so she is not fooled** (Tuesday, Saturday) - one failure mode, how to spot it, a two-minute test.
+- **AI first, practically.** She steered this on 2026-10-26 after the first trial: the AI lessons must serve her own work and her own judgement, not theory about models. Four strands, one per AI day: **real work with the assistant** (Monday) - one task she actually has, the sentence to type, what to check; **not being fooled** (Tuesday) - one failure mode, a two-minute test; **building a skill for the assistant** (Thursday) - one procedure of hers turned into a named skill, what she says, how she checks it; **standing up an assistant from nothing** (Saturday) - one step of the setup checklist in her own terms, what she does herself, how she knows it worked.
 - **Mandarin second, deliberately slow.** She picked Mandarin over Spanish on 2026-10-18 after the trade-off was stated: characters and tones make the first two months slower, while her Vietnamese ear and the Sino-Vietnamese vocabulary help later.
 - **Habit before depth.** Fifteen minutes every day for a week is worth more than a two-hour session that is never repeated.
 
@@ -44,16 +44,30 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 - Success means: she opens at least 5 of the 7 morning lessons and answers at least 4 bedtime recalls.
 - Counted from the scheduler reports under `$HERMES_HOME/cron/output/<job_id>/`, not from memory.
 - Review on 2026-10-25: keep both slots, keep one, or move the times.
-- **Result (2026-10-25):** 7 of 7 morning lessons were delivered (reports `2026-10-19` to `2026-10-25` in `$HERMES_HOME/cron/output/e614cf9fbbd0/`), and 4 of 7 bedtime recalls were answered - on 20, 22, 23 and 25 October - which meets the four-answer bar exactly. Whether she opened the lessons cannot be measured from Telegram, so that half of the test is unproven. Both jobs are still running; the keep/keep-one/move decision is open with Mai.
+- **Result (2026-10-25):** 7 of 7 morning lessons were delivered (reports `2026-10-19` to `2026-10-25` in `$HERMES_HOME/cron/output/e614cf9fbbd0/`), and 4 of 7 bedtime recalls were answered - on 20, 22, 23 and 25 October - which meets the four-answer bar exactly. Whether she opened the lessons cannot be measured from Telegram, so that half of the test is unproven.
+- **Decision (2026-10-25):** Mai kept both slots - 10:00 and 22:00 - unchanged.
+
+## Trial week 2 (2026-10-27 to 2026-11-02)
+
+She asked for a second week with different AI content, then a joint review and a longer plan. Same two touchpoints and the same Mandarin strand; only the AI half changes.
+
+- AI days sit at Monday, Tuesday, Thursday and Saturday, one strand each: **real work with the assistant** (Monday), **not being fooled** (Tuesday), **building a skill for the assistant** (Thursday), **standing up an assistant from nothing** (Saturday). Her own words for what she wants: how to put the assistant to work in her daily job, how to make a skill for it, and what she has to do when the assistant is brand new and nothing has been installed yet, the way Konstantin set this one up.
+- Weekdays are unchanged for Mandarin: Wednesday, Friday, Sunday.
+- Success means: four AI lessons that touch her own work rather than the internals of a model, and at least four bedtime recalls answered.
+- Review on 2026-11-02, together, from the scheduler reports; the outcome decides the longer plan.
 
 ## 💡 Decisions
 
+- **2026-10-26 - four AI strands named by Mai:** later the same evening she made her wish concrete - applying the assistant to her daily work, making a skill for it, and knowing what to do when the assistant is fresh with nothing installed. The lesson prompt of job `e614cf9fbbd0` now assigns one strand per AI day (Monday work, Tuesday not being fooled, Thursday skills, Saturday setup), and tells the lesson never to assume she has root access or a terminal.
+- **2026-10-26 - AI content changed for a second trial week:** Mai found the first week's AI lessons too far from what she wants and picked two directions: AI as an employee, and understanding AI so she is not fooled. The lesson prompt of job `e614cf9fbbd0` now alternates those two strands on the four AI days; Mandarin days are untouched. Second trial 2026-10-27 to 2026-11-02, reviewed together before any longer plan.
 - **2026-10-24 - lesson format: plain label, no technical detail:** at Konstantin's request the morning message now opens with the single line `**Daily learning**`, and `cron.wrap_response` is off for the whole profile, so no "Cronjob Response" header, job id or "stop/manage" footer reaches the chat. Lesson bodies stay Vietnamese; the label is English.
 - **2026-10-19 - lesson slot moved to 10:00 MSK:** Mai found 12:30 too late and proposed "around 10". Job `e614cf9fbbd0` now runs `every day at 10:00`; the bedtime recall stays at 22:00. Today's lesson was fired manually at 10:02 so day one of the trial is not lost.
 - **2026-10-18 - voice for daily lessons:** `vi-VN-HoaiMyNeural` (edge-tts, rate -5%). Mai compared it against the male `vi-VN-NamMinhNeural` and a Google `gTTS` render of the same sentence and chose HoaiMy: "not northern, but rounder and clearer". A true northern accent was not available from either free engine.
 
 ## Progress
 
+- **2026-10-26** - four AI strands fixed (work / not fooled / skills / standing it up); lesson prompt rewritten again the same evening.
+- **2026-10-26** - second trial agreed (27/10-02/11); AI lessons rewritten to two strands: employee and not-being-fooled.
 - **2026-10-26** - morning: Why one question can get two different answers - pinning the reply to a single named source so the model has nothing left to guess
 - **2026-10-25** - trial week 19-25 reviewed: 7/7 lessons delivered, 4/7 recalls answered; new message format confirmed in production.
 - **2026-10-25** - morning: Mandarin yes/no questions - the particle 吗 (ma) at the end turns a statement into a question without changing word order
@@ -79,3 +93,4 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 - [[Logs/2026-10-19]] - lesson slot moved to 10:00
 - [[Logs/2026-10-24]] - cron wrapper off, lesson opens with "Daily learning"
 - [[Logs/2026-10-25]] - trial week reviewed; new format confirmed in production
+- [[Logs/2026-10-26]] - AI lessons retargeted; second trial week agreed

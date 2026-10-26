@@ -22,6 +22,7 @@
 - [[Logs/2026-10-20]] - currency digest tables fixed: blank line now before and after every table, so Telegram renders them
 - [[Logs/2026-10-24]] - cron wrapper switched off; daily lesson opens with "Daily learning" and no technical detail
 - [[Logs/2026-10-25]] - learning trial week reviewed from scheduler reports; new message format confirmed in production
+- [[Logs/2026-10-26]] - AI lessons retargeted to "employee" and "not being fooled"; second trial week agreed
 
 ## Tasks
 
