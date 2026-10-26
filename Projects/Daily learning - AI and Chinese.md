@@ -54,6 +54,7 @@ The point is to find out whether two daily touchpoints fit her day before any lo
 
 ## Progress
 
+- **2026-10-26** - morning: Why one question can get two different answers - pinning the reply to a single named source so the model has nothing left to guess
 - **2026-10-25** - trial week 19-25 reviewed: 7/7 lessons delivered, 4/7 recalls answered; new message format confirmed in production.
 - **2026-10-25** - morning: Mandarin yes/no questions - the particle 吗 (ma) at the end turns a statement into a question without changing word order
 - **2026-10-24** - morning: Model writes text, tools do the work - why a confident answer is not proof the note changed
