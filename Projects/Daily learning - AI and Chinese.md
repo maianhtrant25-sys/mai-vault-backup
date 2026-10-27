@@ -67,6 +67,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-10-27** - morning: Confidently wrong arithmetic - asking the assistant for every step and re-doing the steps yourself before a number goes to a customer
 - **2026-10-26** - teaching method agreed (exercise → short explanation → her questions); process traces on request.
 - **2026-10-26** - four AI strands fixed (work / not fooled / skills / standing it up); lesson prompt rewritten again the same evening.
 - **2026-10-26** - second trial agreed (27/10-02/11); AI lessons rewritten to two strands: employee and not-being-fooled.
