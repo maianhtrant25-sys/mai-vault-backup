@@ -23,6 +23,7 @@
 - [[Logs/2026-10-24]] - cron wrapper switched off; daily lesson opens with "Daily learning" and no technical detail
 - [[Logs/2026-10-25]] - learning trial week reviewed from scheduler reports; new message format confirmed in production
 - [[Logs/2026-10-26]] - AI lessons retargeted to "employee" and "not being fooled"; second trial week agreed
+- [[Logs/2026-10-27]] - lessons now address her as "chị", never "em" or "bạn"
 
 ## Tasks
 
