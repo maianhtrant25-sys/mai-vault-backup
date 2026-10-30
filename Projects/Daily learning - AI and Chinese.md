@@ -67,6 +67,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-10-30** - morning: Mandarin bargaining - 太贵了 then 便宜一点 said in one breath right after asking 这个多少钱, and why 一 is spoken yì before 一点
 - **2026-10-29** - morning: Skills for the assistant - one of her own procedures written down as a name, a moment to use it and the steps, the sentence she says to have it written, and how she checks it afterwards
 - **2026-10-28** - morning: Mandarin asking a price - the phrase 这个多少钱 keeps the Vietnamese word order, and 块 at the end of the reply marks the price
 - **2026-10-27** - morning: Confidently wrong arithmetic - asking the assistant for every step and re-doing the steps yourself before a number goes to a customer
