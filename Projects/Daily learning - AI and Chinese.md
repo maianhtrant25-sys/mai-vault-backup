@@ -67,6 +67,8 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-02** - morning: Real work with the assistant - pasting one message she already sent as a sample instead of describing her tone, naming what may change and what must stay, then reading the draft for numbers the assistant added
+
 - **2026-11-01** - morning: Mandarin numbers - the ten digits, why 11-99 is built in the same order as Vietnamese so a heard price can be guessed, and 四 vs 十 sounding close
 
 - **2026-10-31** - morning: Standing up an assistant - handing a fresh assistant one folder of her own to read, saying read-only, and testing it with a detail only that note contains
