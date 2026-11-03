@@ -24,6 +24,7 @@
 - [[Logs/2026-10-25]] - learning trial week reviewed from scheduler reports; new message format confirmed in production
 - [[Logs/2026-10-26]] - AI lessons retargeted to "employee" and "not being fooled"; second trial week agreed
 - [[Logs/2026-10-27]] - lessons now address her as "chị", never "em" or "bạn"
+- [[Logs/2026-11-03]] - AI lessons switched to the Hermes Agent Masterclass; course map and glossary written
 
 ## Tasks
 
@@ -46,6 +47,7 @@
 - [[Knowledge/Currency rates history]] - rolling daily table of the central-bank, MOEX and Moscow bank rates for USD/RUB plus USD/VND, and today's bank panel (maintained by the collector script; newest first)
 - [[Knowledge/Mai's RUB-VND conversions]] - Mai's own RUB to VND conversion rate per day, next to what the market offered that day
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
+- [[Knowledge/Hermes masterclass - course map]] - the 10-module Hermes Agent Masterclass, the order Mai follows it in, and a one-line glossary of the terms she meets in the videos
 
 ## Bases
 

@@ -19,7 +19,7 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 
 ## 🎯 Focus
 
-- **AI first, practically.** She steered this on 2026-10-26 after the first trial: the AI lessons must serve her own work and her own judgement, not theory about models. Four strands, one per AI day: **real work with the assistant** (Monday) - one task she actually has, the sentence to type, what to check; **not being fooled** (Tuesday) - one failure mode, a two-minute test; **building a skill for the assistant** (Thursday) - one procedure of hers turned into a named skill, what she says, how she checks it; **standing up an assistant from nothing** (Saturday) - one step of the setup checklist in her own terms, what she does herself, how she knows it worked.
+- **AI first, practically.** She steered this on 2026-10-26 and again on 2026-11-03: the AI lessons must serve her own work, not theory for its own sake. Since 2026-11-03 they are taught one concept at a time from Tonbi's *Hermes Agent Masterclass*, in the order set out in [[Knowledge/Hermes masterclass - course map]], with every technical word glossed in the same sentence and every example taken from her own agent.
 - **Mandarin second, deliberately slow.** She picked Mandarin over Spanish on 2026-10-18 after the trade-off was stated: characters and tones make the first two months slower, while her Vietnamese ear and the Sino-Vietnamese vocabulary help later.
 - **Habit before depth.** Fifteen minutes every day for a week is worth more than a two-hour session that is never repeated.
 
@@ -58,6 +58,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## 💡 Decisions
 
+- **2026-11-03 - lessons now follow the Hermes masterclass:** Mai sent module 3 of Tonbi's *Hermes Agent Masterclass* and said the videos are full of terms she does not understand; she wants to be taught from that material as a complete beginner. The AI days are now course-driven in the order set out in [[Knowledge/Hermes masterclass - course map]], one concept per lesson, every technical word glossed, examples taken from her own agent. The four strands of 2026-10-26 are superseded, except that the process-trace rule still stands when she asks how something was done.
 - **2026-10-26 - teaching method agreed:** the AI lessons run as a cycle she set - one exercise, a short plain explanation, then her questions and the agent's answers, with the depth set by her questions. When she asks how the agent did something, the answer is the real process trace (queries, sources accepted and rejected, tool failures, how much was read, what stayed uncertain), not a retelling of the domain.
 - **2026-10-26 - four AI strands named by Mai:** later the same evening she made her wish concrete - applying the assistant to her daily work, making a skill for it, and knowing what to do when the assistant is fresh with nothing installed. The lesson prompt of job `e614cf9fbbd0` now assigns one strand per AI day (Monday work, Tuesday not being fooled, Thursday skills, Saturday setup), and tells the lesson never to assume she has root access or a terminal.
 - **2026-10-26 - AI content changed for a second trial week:** Mai found the first week's AI lessons too far from what she wants and picked two directions: AI as an employee, and understanding AI so she is not fooled. The lesson prompt of job `e614cf9fbbd0` now alternates those two strands on the four AI days; Mandarin days are untouched. Second trial 2026-10-27 to 2026-11-02, reviewed together before any longer plan.
@@ -66,6 +67,9 @@ She asked for a second week with different AI content, then a joint review and a
 - **2026-10-18 - voice for daily lessons:** `vi-VN-HoaiMyNeural` (edge-tts, rate -5%). Mai compared it against the male `vi-VN-NamMinhNeural` and a Google `gTTS` render of the same sentence and chose HoaiMy: "not northern, but rounder and clearer". A true northern accent was not available from either free engine.
 
 ## Progress
+
+- **2026-11-03** - lessons switched to the Hermes masterclass; course map and glossary written.
+- **2026-11-03** - morning: Not being fooled - instructions hidden inside a document she pastes, how the assistant obeying them looks in the answer, and the one sentence that keeps it reading instead of obeying
 
 - **2026-11-02** - morning: Real work with the assistant - pasting one message she already sent as a sample instead of describing her tone, naming what may change and what must stay, then reading the draft for numbers the assistant added
 
@@ -106,3 +110,6 @@ She asked for a second week with different AI content, then a joint review and a
 - [[Logs/2026-10-24]] - cron wrapper off, lesson opens with "Daily learning"
 - [[Logs/2026-10-25]] - trial week reviewed; new format confirmed in production
 - [[Logs/2026-10-26]] - AI lessons retargeted; second trial week agreed
+- [[Logs/2026-10-27]] - lessons address her as "chị", never "em" or "bạn"
+- [[Knowledge/Hermes masterclass - course map]] - the course the AI lessons now follow, with the glossary
+- [[Logs/2026-11-03]] - AI lessons switched to the Hermes masterclass
