@@ -112,4 +112,5 @@ She asked for a second week with different AI content, then a joint review and a
 - [[Logs/2026-10-26]] - AI lessons retargeted; second trial week agreed
 - [[Logs/2026-10-27]] - lessons address her as "chị", never "em" or "bạn"
 - [[Knowledge/Hermes masterclass - course map]] - the course the AI lessons now follow, with the glossary
+- [[Knowledge/Lessons - Hermes masterclass]] - full text of every AI lesson, newest first
 - [[Logs/2026-11-03]] - AI lessons switched to the Hermes masterclass

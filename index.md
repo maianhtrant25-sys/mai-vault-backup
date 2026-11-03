@@ -48,6 +48,7 @@
 - [[Knowledge/Mai's RUB-VND conversions]] - Mai's own RUB to VND conversion rate per day, next to what the market offered that day
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
 - [[Knowledge/Hermes masterclass - course map]] - the 10-module Hermes Agent Masterclass, the order Mai follows it in, and a one-line glossary of the terms she meets in the videos
+- [[Knowledge/Lessons - Hermes masterclass]] - full text of each daily AI lesson, newest first, kept apart from the chat (maintained by the 10:00 lesson job)
 
 ## Bases
 
