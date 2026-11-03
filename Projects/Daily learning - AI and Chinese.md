@@ -28,7 +28,7 @@ Mai's personal learning track, opened 2026-10-18 at her request. Fifteen minutes
 - **Morning (10:00 MSK) - 10 minutes:** the day's new lesson. Moved from 12:30 on 2026-10-19 at Mai's request - 12:30 was too late in her day.
 - **Bedtime - 5 minutes:** quick recall, three questions answered by voice message or one line of text.
 - Total 15 minutes a day, 105 minutes a week - inside the one-to-two hour weekly budget she set.
-- Weekly split: four AI days (60 minutes) and three Mandarin days (45 minutes).
+- Weekly split: **from 2026-11-03 the mornings are all AI** - Mandarin is paused at her request (she judged it did not build the foundation she wants); the AI lessons come from the Hermes masterclass, one concept a day.
 - Delivery: Telegram forum topic "📚 Học mỗi ngày" in the group `Em trợ lý`, thread id 456 - full target `telegram:-1003779912075:456` (created 2026-10-18 with `createForumTopic`, verified by a send/delete round trip). Both jobs post there, not in the main thread, so the daily lesson never buries other work.
 
 ## Daily lesson format
@@ -58,6 +58,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## 💡 Decisions
 
+- **2026-11-03 - Mandarin paused:** she said the Chinese lessons were not useful and did not build the foundation she needs. All seven mornings are now the AI course; the bedtime recall asks only about AI lessons. The Mandarin strand can come back if she asks; nothing was deleted from Progress.
 - **2026-11-03 - lessons now follow the Hermes masterclass:** Mai sent module 3 of Tonbi's *Hermes Agent Masterclass* and said the videos are full of terms she does not understand; she wants to be taught from that material as a complete beginner. The AI days are now course-driven in the order set out in [[Knowledge/Hermes masterclass - course map]], one concept per lesson, every technical word glossed, examples taken from her own agent. The four strands of 2026-10-26 are superseded, except that the process-trace rule still stands when she asks how something was done.
 - **2026-10-26 - teaching method agreed:** the AI lessons run as a cycle she set - one exercise, a short plain explanation, then her questions and the agent's answers, with the depth set by her questions. When she asks how the agent did something, the answer is the real process trace (queries, sources accepted and rejected, tool failures, how much was read, what stayed uncertain), not a retelling of the domain.
 - **2026-10-26 - four AI strands named by Mai:** later the same evening she made her wish concrete - applying the assistant to her daily work, making a skill for it, and knowing what to do when the assistant is fresh with nothing installed. The lesson prompt of job `e614cf9fbbd0` now assigns one strand per AI day (Monday work, Tuesday not being fooled, Thursday skills, Saturday setup), and tells the lesson never to assume she has root access or a terminal.
@@ -68,6 +69,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-03** - Mandarin paused; mornings are AI only from today.
 - **2026-11-03** - lessons switched to the Hermes masterclass; course map and glossary written.
 - **2026-11-03** - morning: Not being fooled - instructions hidden inside a document she pastes, how the assistant obeying them looks in the answer, and the one sentence that keeps it reading instead of obeying
 
