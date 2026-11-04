@@ -26,6 +26,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 - [[Logs/2026-10-26]] - AI lessons retargeted; second trial week agreed
 - [[Logs/2026-10-27]] - lessons address her as "chị", never "em" or "bạn"
 - [[Logs/2026-11-03]] - AI lessons switched to the Hermes masterclass; course map written
+- [[Logs/2026-11-04]] - memory lesson did not land; re-teach queued
 
 ## Bases (live views)
 

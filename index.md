@@ -25,6 +25,7 @@
 - [[Logs/2026-10-26]] - AI lessons retargeted to "employee" and "not being fooled"; second trial week agreed
 - [[Logs/2026-10-27]] - lessons now address her as "chị", never "em" or "bạn"
 - [[Logs/2026-11-03]] - AI lessons switched to the Hermes Agent Masterclass; course map and glossary written
+- [[Logs/2026-11-04]] - memory lesson did not land; next lesson re-teaches the three stores
 
 ## Tasks
 
