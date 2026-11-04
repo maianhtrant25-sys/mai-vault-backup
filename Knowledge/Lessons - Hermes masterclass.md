@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-04 · module 4 · why the agent does not open a skill it already has
+
+**Daily learning**
+
+**Hôm nay:** Vì sao em có cả danh sách kỹ năng mà vẫn có việc chị phải nhắc lại từ đầu mỗi lần?
+
+Mỗi **kỹ năng** là một thủ tục viết sẵn em tự nạp khi công việc khớp - bài này ở module 4 của khoá. Nó có hai phần: một dòng mô tả ngắn "dùng khi nào" ở trên, phần thân dài ghi từng bước ở dưới. Lúc chị nhờ việc, em chỉ thấy tên và dòng mô tả của mọi kỹ năng, như mục lục sách; khớp cách chị nói thì mới mở phần thân. Nên kỹ năng nào mô tả bằng từ khác cách chị nói thì gần như không bao giờ được mở. Ví dụ: kỹ năng ghi tỷ giá ghi rõ "RUB/VND và lợi nhuận", nên câu "ghi tỷ giá hôm nay" mở đúng nó.
+
+**Việc 2 phút:** Nhắn em: "Ghi tỷ giá RUB/VND hôm nay, nhưng trước khi làm hãy nói rõ sẽ mở kỹ năng nào." Nếu em không nêu được tên kỹ năng nào, bảo em viết lại dòng mô tả của kỹ năng đó bằng đúng từ chị hay dùng.
+
 ## 2026-11-03 · module 3 · why a memory write does not show up in the same conversation
 
 **Hôm nay:** Vì sao em nói "đã ghi nhớ" mà ngay trong cuộc trò chuyện đó em vẫn không dùng điều vừa ghi?

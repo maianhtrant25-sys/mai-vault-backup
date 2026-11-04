@@ -69,6 +69,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-04** - morning: module 4 - a skill is picked by its one-line description, so vague wording means it never loads
 - **2026-11-03** - Mandarin paused; mornings are AI only from today.
 - **2026-11-03** - lessons switched to the Hermes masterclass; course map and glossary written.
 - **2026-11-03** - morning: Not being fooled - instructions hidden inside a document she pastes, how the assistant obeying them looks in the answer, and the one sentence that keeps it reading instead of obeying
