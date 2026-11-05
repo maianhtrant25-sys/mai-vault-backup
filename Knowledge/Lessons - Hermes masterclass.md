@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-05 · module 3 · the three places the agent keeps information, with real sizes
+
+**Daily learning**
+
+**Hôm nay:** Em nhớ chị ở đâu — và ba chỗ chứa đó khác nhau thế nào?
+
+Em giữ thông tin ở ba chỗ tách rời, không phải một — bài này ở module 3. Chỗ thứ nhất: hai tệp ghi nhớ nạp sẵn mỗi cuộc trò chuyện, tệp về việc nặng 521 byte, tệp về chị nặng 632 byte — byte là đơn vị đo chữ, cỡ một chữ cái, nên cả hai vừa một tin nhắn. Chỗ thứ hai: cơ sở dữ liệu lưu mọi tin nhắn cũ, 50 MB (MB là một triệu byte), to hơn nhiều nhưng em chỉ tra khi cần. Chỗ thứ ba: vault (thư mục ghi chú), 40 ghi chú, khoảng 900 nghìn byte, chị sửa được. Ba chỗ không tự đồng bộ: ghi chỗ này thì chỗ kia không thấy.
+
+**Việc 2 phút:** Nhắn em: "Nói rõ ba chỗ chứa thông tin của bạn và dung lượng thật của từng chỗ." Rồi hỏi tiếp: "Câu tôi dặn hôm qua nằm ở chỗ nào?" Chị sẽ thấy câu trả lời đúng chỉ về một chỗ; nếu em nói "cả ba" thì đó là dấu hiệu em đang đoán.
+
 ## 2026-11-04 · module 4 · why the agent does not open a skill it already has
 
 **Daily learning**

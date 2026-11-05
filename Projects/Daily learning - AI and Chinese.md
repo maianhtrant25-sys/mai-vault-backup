@@ -69,6 +69,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-05** - morning: module 3 - three separate stores (two memory files, chat database, vault) with their real sizes
 - **2026-11-04** - recall shows the memory lesson did not land (she merged the two memory files with the vault); the next AI lesson must re-teach the three places with the real sizes before a new module.
 - **2026-11-04** - morning: module 4 - a skill is picked by its one-line description, so vague wording means it never loads
 - **2026-11-03** - Mandarin paused; mornings are AI only from today.
