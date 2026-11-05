@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-05 · module 4 · a skill is born after a hard task and patched after one mistake
+
+**Học thêm** (22:30, chat — ngoài khung 10:00)
+
+**Hôm nay:** Vì sao kỹ năng tự xuất hiện, và tự sửa được khi em làm sai?
+
+Kỹ năng (skill) là một quy trình viết sẵn để em khỏi phải nghĩ lại từ đầu mỗi lần. Nó sinh ra đúng lúc: vừa làm xong một việc khó thì em viết lại thành file. Hôm nay có hai kỹ năng mới xuất hiện đúng kiểu đó — một cái để đọc lá số Tử Vi, một cái để quản topic nhóm Telegram. Kỹ năng cũng sửa được: khi nó sai một lần, em vá đúng đoạn sai (gọi là patch — vá một chỗ trong file, không viết lại cả file), rồi tăng số version từ 1.0.0 lên 1.0.1. Kỹ năng dạy học của chị đang là 1.0.1 vì một lần em gọi chị là "em"; chị phản đối, và câu đó được vá vào.
+
+**Việc 2 phút:** Chị kể em một việc chị đã làm đến lần thứ hai (gửi lá số cho người khác, ghi tỷ giá, ghi bữa ăn). Em viết ngay thành kỹ năng, chị đọc ba dòng đầu — lệch chỗ nào thì bảo em vá.
+
 ## 2026-11-05 · module 3 · the three places the agent keeps information, with real sizes
 
 **Daily learning**
