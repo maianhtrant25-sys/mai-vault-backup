@@ -13,6 +13,18 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-06 · module 7 · a scheduled job runs with nobody present and re-reads its files each time
+
+**Daily learning**
+
+**Hôm nay:** Vì sao bài học vẫn tới lúc 10:00 dù không có ai bấm nút?
+
+Hai việc em làm cho chị mỗi ngày là hai cron job (việc hệ thống tự chạy theo lịch, trong một phiên mới, không có người bên cạnh) — bài này ở module 7. Một cái chạy 10:00, một cái 22:00.
+
+Vì chị không ở đó để trả lời, và phiên mới không nhớ cuộc trò chuyện hôm qua, mỗi lần chạy nó phải tự đọc lại ghi chú dự án cùng bản đồ khoá học rồi tự ghi kết quả xuống file. Đó là lý do mục Progress có dòng mới mỗi sáng dù chị chưa nhắn gì. Nếu bước ghi file hỏng, bài vẫn tới mà dòng Progress trống — em không kiểm được thứ tự, nên đó là dấu hiệu duy nhất.
+
+**Việc 2 phút:** Mở ghi chú dự án, tới mục Progress, đọc dòng trên cùng: nó phải mang ngày hôm nay và tên module của bài sáng nay. Rồi mở ghi chú Lessons, tiêu đề trên cùng phải trùng đúng câu đó. Thiếu một trong hai thì nhắn em: "Bài sáng nay chưa được ghi lại."
+
 ## 2026-11-05 · module 4 · a skill is born after a hard task and patched after one mistake
 
 **Học thêm** (22:30, chat — ngoài khung 10:00)
