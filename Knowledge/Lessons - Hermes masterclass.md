@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-07 · module 2 · the gateway is the always-on line between Telegram and the agent
+
+**Daily learning**
+
+**Hôm nay:** Vì sao tin chị nhắn trên Telegram vẫn tới được em, và cái gì phải luôn chạy để điều đó xảy ra?
+
+Vì có một tiến trình (process — chương trình chạy trên máy chủ, không phải trên điện thoại chị) tên là gateway (cổng nối) — bài này ở module 2. Nó đứng giữa Telegram và em: chị gửi tin, cổng nhận rồi đưa cho em; em trả lời, cổng đưa ngược vào đúng topic. Cổng phải chạy liên tục, kể cả ban đêm; không có nó, em chỉ nói được khi có người mở phiên trước máy — lúc mới cài, trợ lý chỉ là khung chat trên máy tính. Nếu cổng dừng, tin chị vẫn nằm trong Telegram nhưng không ai trả lời, và điện thoại chị không hiện lỗi: dấu hiệu duy nhất là sự im lặng.
+
+**Việc 2 phút:** Nhắn em một câu bất kỳ trong topic này rồi bấm giờ: trả lời tới trong vài giây nghĩa là cổng vẫn chạy. Nếu im lặng quá một phút, đừng nhắn lại nhiều lần — bảo Konstantin kiểm cổng trên máy chủ, vì từ điện thoại chị không gõ lệnh được.
+
 ## 2026-11-06 · module 7 · a scheduled job runs with nobody present and re-reads its files each time
 
 **Daily learning**

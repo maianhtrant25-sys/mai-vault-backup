@@ -69,6 +69,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-07** - morning: module 2 - the gateway is the always-on line between Telegram and the agent
 - **2026-11-06** - morning: module 7 - a scheduled job runs with nobody present and re-reads its files each time
 - **2026-11-05** - extra (22:30, chat, ngoài khung 10:00): module 4 - a skill is born right after a hard task and patched after one mistake (two skills appeared today: tu-vi-chart-reading, telegram-group-admin; daily-learning-coaching at 1.0.1)
 - **2026-11-05** - morning: module 3 - three separate stores (two memory files, chat database, vault) with their real sizes
