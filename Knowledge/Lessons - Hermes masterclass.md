@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-08 · module 1 · install is a program, a settings file and a separate key file
+
+**Daily learning**
+
+**Hôm nay:** Cái gì phải có sẵn trên máy chủ trước khi em trả lời được câu đầu tiên — và vì sao phần bí mật nhất lại nằm riêng một file?
+
+Bài này ở module 1 — cài đặt. Trước khi em nói được câu nào, máy chủ cần ba thứ: chương trình chạy em, một file cài đặt (config — nơi ghi em dùng model nào), và một chìa khoá API (API key — chuỗi ký tự bí mật chứng minh với nhà cung cấp model rằng câu hỏi này đã được trả tiền). Hai file đó để riêng: chị đưa file cài đặt cho người khác xem mà không lộ chìa khoá. Video gõ lệnh cài đặt trên máy chủ; từ điện thoại chị không gõ được — việc đó của Konstantin, chị chỉ thấy kết quả. Chìa khoá không bao giờ nằm trong ghi chú Obsidian hay chat.
+
+**Việc 2 phút:** Trong topic này nhắn em đúng một câu: "Chìa khoá API của em nằm ở file nào?" Em trả lời bằng tên file, không in nội dung. Nếu em có in ra một chuỗi dài thì đừng chép đi đâu, nhắn Konstantin.
+
 ## 2026-11-07 · module 2 · the gateway is the always-on line between Telegram and the agent
 
 **Daily learning**
