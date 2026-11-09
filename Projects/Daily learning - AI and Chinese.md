@@ -69,6 +69,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-09** - morning: module 6 - MCP is the adapter that plugs outside tools like the vault into the agent
 - **2026-11-08** - morning: module 1 - install needs a program, a settings file and a separate key file
 - **2026-11-07** - morning: module 2 - the gateway is the always-on line between Telegram and the agent
 - **2026-11-06** - morning: module 7 - a scheduled job runs with nobody present and re-reads its files each time

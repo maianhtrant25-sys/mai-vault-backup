@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-09 · module 6 · MCP is the adapter that plugs the vault into the agent
+
+**Daily learning**
+
+**Hôm nay:** Làm sao em đọc được ghi chú Obsidian của chị mà không phải viết riêng một chương trình cho nó?
+
+Bài này ở module 6 — công cụ. Một công cụ (tool) là một việc em được phép nhờ máy làm: đọc file, chạy lệnh, tìm trên web. Nhưng em không tự biết kho Obsidian của chị. Giữa hai bên có một adapter (bộ chuyển) theo chuẩn MCP (Model Context Protocol — cách chuẩn để cắm công cụ ngoài vào, khỏi viết tích hợp riêng cho từng dịch vụ). Máy chủ này hiện có đúng một MCP tên `obsidian-vault`, trỏ vào thư mục vault của chị; nhờ nó em mới có lệnh riêng để tìm và đọc note. Tắt nó đi thì mấy lệnh đó biến mất, em chỉ còn cách đọc file thô — chậm hơn và dễ bỏ sót.
+
+**Việc 2 phút:** Nhắn em trong topic này: "Tìm trong vault giúp em ghi chú về tỷ giá." Em phải trả về tên ghi chú cụ thể. Nếu em trả lời chung chung mà không kèm tên ghi chú nào thì phần nối vault đang tắt — bảo Konstantin kiểm trên máy chủ.
+
 ## 2026-11-08 · module 1 · install is a program, a settings file and a separate key file
 
 **Daily learning**
