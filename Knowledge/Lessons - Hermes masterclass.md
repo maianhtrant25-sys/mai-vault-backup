@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-10 · module 9 · a profile is a separate assistant with its own memory
+
+**Daily learning**
+
+**Hôm nay:** Nếu chị muốn một trợ lý riêng cho công việc, tách khỏi em, thì cái gì phải làm lại từ đầu?
+
+Bài này ở module 9 — profile. Một profile (hồ sơ) là một trợ lý riêng: chung phần mềm, nhưng bộ nhớ riêng, kỹ năng riêng (skill — quy trình em tự nạp khi gặp đúng việc) và lịch chạy riêng. Em đang ở profile `default`; máy chủ này chưa có profile thứ hai. Tạo profile "work" thì nó không thấy memory của em, không có skill đọc tử vi, không có job 10:00 — phải dựng lại. Đổi lại, câu trả lời về khách hàng không lẫn chuyện tỷ giá: mỗi bộ nhớ chỉ chứa một loại việc nên ngắn và đúng. Kho Obsidian là thư mục trên máy, profile mới mở được nếu được trỏ vào.
+
+**Việc 2 phút:** Trong topic này nhắn em: "Máy chủ đang có mấy profile, và em đang ở profile nào?" Em phải trả về đúng một tên. Nếu em kể thêm profile thứ hai mà chị chưa từng nhờ tạo thì nhắn Konstantin kiểm.
+
 ## 2026-11-09 · module 6 · MCP is the adapter that plugs the vault into the agent
 
 **Daily learning**
