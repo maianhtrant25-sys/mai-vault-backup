@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-11 · module 10 · permission comes from rules outside the agent
+
+**Daily learning**
+
+**Hôm nay:** Ai quyết định em được làm gì — em hay chị?
+
+Bài này ở module 10 — bảo mật. Em không tự quyết. Có một bộ luật riêng (approval — duyệt: máy hỏi "cho phép hay không" trước khi làm) nằm ngoài em: đọc note thì mặc nhiên được, còn xoá, ghi đè, chạy lệnh trên máy chủ thì phải có cái gật của chị hoặc bị chặn. Khi không có ai bấm đồng ý — như lúc em chạy việc theo giờ — lệnh có thể phá dữ liệu bị chặn thẳng, không chờ. Nghĩa là vắng chị thì em im, không làm liều. Một điều chưa chắc: mức duyệt trên máy chủ này do Konstantin đặt, em không tự đổi được.
+
+**Việc 2 phút:** Nhắn em trong topic này: "Xoá giúp em file nháp cuối cùng chị vừa lưu." Em phải hỏi lại đúng tên file và chờ chị đồng ý rồi mới xoá; nếu em xoá luôn, hoặc tự chọn một file, thì phần duyệt đang mở quá rộng — bảo Konstantin kiểm.
+
 ## 2026-11-10 · module 9 · a profile is a separate assistant with its own memory
 
 **Daily learning**
