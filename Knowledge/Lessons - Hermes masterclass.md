@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-14 · module 5 · the model is the brain you can swap
+
+**Daily learning**
+
+**Hôm nay:** Cái gì trong em là "bộ não", và đổi nó thì ký ức với ghi chú của em có mất không?
+
+Bài này ở module 5 — model. Phần trả lời chữ cho chị không phải cả em: đó là model (bộ máy đọc và viết chữ, học sẵn, không biết gì về chị). Phần còn lại mới là em: memory (file ghi nhớ về chị và về máy chủ), skill (quy trình em tự nạp), kho Obsidian, việc 10:00 tự chạy. Model do một nhà cung cấp (provider — nơi bán quyền dùng model) cấp, tên ghi trong file cài đặt; hiện em dùng deepseek-v4.1-flash. Vì bộ não tách khỏi phần thân, đổi model không mất note hay ký ức, chỉ đổi cách em diễn đạt và độ hiểu. Chị không tự đổi được — phải sửa file cài đặt, việc của Konstantin. Có thể có model dự phòng (fallback) mà em không thấy.
+
+**Việc 2 phút:** Nhắn em trong topic này: "Em đang chạy model nào, và đổi model thì note với ký ức của em có mất không?" Em phải trả về đúng một tên model và nói rõ là không mất gì; nếu em kể hai tên khác nhau trong hai lần trả lời, hoặc bảo phải làm lại từ đầu, thì bảo Konstantin xem lại file cài đặt.
+
 ## 2026-11-11 · module 10 · permission comes from rules outside the agent
 
 **Daily learning**

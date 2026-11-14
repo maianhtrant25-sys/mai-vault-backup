@@ -58,6 +58,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## 💡 Decisions
 
+- **2026-11-14 - pause over, first lesson back is a recap:** both jobs were resumed this morning after the three-day pause (`e614cf9fbbd0` next run 10:00 today, `9240f6c34b2f` next run 22:00 today). Today's 10:00 lesson is a recap that reconnects module 10 (permissions come from rules outside the agent) with module 4 (a skill is born after a hard task), not new material; the normal course order resumes on 2026-11-15. If she is still unwell, the word "tam dung" pauses both again.
 - **2026-11-11 - lessons paused for three days:** Mai asked to stop the lessons for the three days from 11 to 13 November while she was unwell. Both jobs (`e614cf9fbbd0`, `9240f6c34b2f`) were paused at 10:33 and a one-shot resume tick (`3448f1dd0f06`, 2026-11-14 09:30 MSK) was created to switch them back on and to say so in the learning topic. Nothing is being made up in the meantime; when she returns, the first lesson is a recap, not new material.
 - **2026-11-03 - Mandarin paused:** she said the Chinese lessons were not useful and did not build the foundation she needs. All seven mornings are now the AI course; the bedtime recall asks only about AI lessons. The Mandarin strand can come back if she asks; nothing was deleted from Progress.
 - **2026-11-03 - lessons now follow the Hermes masterclass:** Mai sent module 3 of Tonbi's *Hermes Agent Masterclass* and said the videos are full of terms she does not understand; she wants to be taught from that material as a complete beginner. The AI days are now course-driven in the order set out in [[Knowledge/Hermes masterclass - course map]], one concept per lesson, every technical word glossed, examples taken from her own agent. The four strands of 2026-10-26 are superseded, except that the process-trace rule still stands when she asks how something was done.
@@ -70,6 +71,8 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-14** - morning: module 5 - the model is the swappable brain; memory, skills and notes stay
+- **2026-11-14** - pause ended and both jobs resumed
 - **2026-11-11** - morning: module 10 - permissions come from rules outside the agent, so risky actions wait for a yes
 - **2026-11-10** - morning: module 9 - a profile is a separate assistant with its own memory, skills and jobs
 - **2026-11-09** - morning: module 6 - MCP is the adapter that plugs outside tools like the vault into the agent
