@@ -71,6 +71,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-15** - morning: module 8 - subagent is a second copy of the assistant that does one piece and reports back
 - **2026-11-14** - morning: module 5 - the model is the swappable brain; memory, skills and notes stay
 - **2026-11-14** - pause ended and both jobs resumed
 - **2026-11-11** - morning: module 10 - permissions come from rules outside the agent, so risky actions wait for a yes

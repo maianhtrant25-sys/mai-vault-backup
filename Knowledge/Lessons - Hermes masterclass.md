@@ -13,6 +13,16 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-15 · module 8 · a subagent does one piece and reports back
+
+**Daily learning**
+
+**Hôm nay:** Việc lớn hơn một lượt của em thì em chia cho ai, và chị được gì?
+
+Bài này ở module 8 — chia việc (subagent). Subagent (bản sao) là một bản thứ hai của em: em giao cho nó một mẩu việc, nó làm riêng và trả về một câu ngắn, không đổ hết thứ nó đọc vào cuộc nói chuyện với chị. Nhờ vậy context window (khoảng nhìn một lượt của model — bộ máy đọc viết chữ: mọi thứ nó thấy cùng lúc, có hạn) không bị chật. Ví dụ: chị bảo em rà thư mục Projects xem note nào nhắc tới giá — em chia ba bản sao, mỗi bản đọc một phần, rồi gộp lại. Đổi lại, bản sao không hỏi lại chị được, nên câu giao việc phải rõ từ đầu.
+
+**Việc 2 phút:** Nhắn em trong topic này: "Chia việc này cho hai bản sao: một đọc thư mục Knowledge, một đọc thư mục Projects, rồi gộp lại cho chị xem note nào nói về bảo mật." Chị phải thấy hai báo cáo riêng rồi mới gộp thành một câu; nếu em trả một câu mà không nói đã chia, hỏi lại "có mấy bản sao?"; nếu em bảo không có công cụ đó thì thôi, phần này chỉ để hiểu.
+
 ## 2026-11-14 · module 5 · the model is the brain you can swap
 
 **Daily learning**
