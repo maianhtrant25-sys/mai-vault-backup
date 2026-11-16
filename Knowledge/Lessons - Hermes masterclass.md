@@ -13,6 +13,33 @@ summary: Full text of the daily AI lessons drawn from the Hermes Agent Mastercla
 
 This note holds the **full text** of each AI lesson, kept apart from two other places on purpose: the project note [[Projects/Daily learning - AI and Chinese]] keeps only one-line Progress entries, and the Telegram chat mixes lessons with questions and admin. The 10:00 lesson job appends the lesson it has just sent, newest first, under a heading `## YYYY-MM-DD · module N · topic`; it never rewrites an existing entry and never writes a lesson it did not send. The course itself, the order and the glossary live in [[Knowledge/Hermes masterclass - course map]].
 
+## 2026-11-16 · recap of the evenings she did not answer (11-05 to 11-15)
+
+She was ill and then paused; the recalls of 5-10, 14 and 15 November went unanswered. This is the compact re-teach sent in the chat on 2026-11-16, one line per lesson she had received but never been tested on.
+
+| Ngày | Bài | Điều cần nhớ |
+|---|---|---|
+| 11-05 | Bộ nhớ (module 3) | Ba chỗ: hai tệp nhớ, kho hội thoại, vault - ba chỗ không tự đồng bộ |
+| 11-05 | Kỹ năng (module 4) | Skill sinh ra sau một việc khó đã làm đúng; sai một lần thì vá một chỗ, không viết lại cả tệp |
+| 11-06 | Việc theo giờ (module 7) | Không có người bên cạnh, nên mỗi lần chạy tự đọc lại file và tự ghi kết quả |
+| 11-07 | Cổng nối (module 2) | Gateway phải chạy liên tục; nó dừng thì im lặng, điện thoại không báo lỗi |
+| 11-08 | Cài đặt (module 1) | Ba thứ: chương trình, file cài đặt, file khoá riêng - khoá không nằm trong note |
+| 11-09 | MCP (module 6) | Bộ chuyển chuẩn giúp em đọc vault mà không phải viết tích hợp riêng |
+| 11-10 | Profile (module 9) | Trợ lý thứ hai: chung phần mềm, riêng bộ nhớ, kỹ năng và lịch chạy |
+| 11-11 | Quyền (module 10) | Luật duyệt nằm ngoài em; vắng chị thì lệnh có thể phá dữ liệu bị chặn |
+| 11-14 | Model (module 5) | Bộ não thay được; đổi model không mất note hay ký ức |
+| 11-15 | Chia việc (module 8) | Bản sao làm một mẩu rồi trả về một câu; nó không hỏi lại chị được |
+
+## 2026-11-16 · module 3 · memory is read once at session start
+
+**Daily learning**
+
+**Hôm nay:** Vì sao em "quên" một điều chị vừa dặn, rồi hôm sau lại nhớ?
+
+Bài này ở module 3 — bộ nhớ. Memory (hai file nhớ của em: một về chị, một về máy chủ) chỉ được đọc một lần, lúc bắt đầu mỗi session (một cuộc nói chuyện liền mạch), rồi giữ nguyên tới hết cuộc — gọi là frozen snapshot (bản chụp đóng băng). Nên chị dặn giữa cuộc và em ghi vào file: cái file đổi ngay trên ổ đĩa, nhưng bản em đang đọc thì không đổi, điều đó chỉ có hiệu lực từ cuộc sau. Giống em photo cuốn sổ đầu ca rồi làm cả ca trên bản photo, khỏi đọc lại cả sổ mỗi lượt. Việc 10:00 mỗi sáng là một cuộc mới nên đọc bản mới nhất.
+
+**Việc 2 phút:** Nhắn em trong topic này: "Ghi vào file nhớ của em một dòng: ví dụ trong bài học phải lấy từ kho của chị." Rồi hỏi: "Dòng đó có hiệu lực từ bây giờ hay từ lần nói chuyện sau?" Em phải đáp: file đã đổi, nhưng chỉ lần nói chuyện sau mới đọc thấy; nếu em nói "có hiệu lực ngay" thì em đang lẫn.
+
 ## 2026-11-15 · module 8 · a subagent does one piece and reports back
 
 **Daily learning**

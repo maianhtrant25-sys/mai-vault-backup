@@ -71,6 +71,7 @@ She asked for a second week with different AI content, then a joint review and a
 
 ## Progress
 
+- **2026-11-16** - morning: module 3 - memory is read once at session start, so a write lands next session
 - **2026-11-15** - morning: module 8 - subagent is a second copy of the assistant that does one piece and reports back
 - **2026-11-14** - morning: module 5 - the model is the swappable brain; memory, skills and notes stay
 - **2026-11-14** - pause ended and both jobs resumed
