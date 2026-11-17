@@ -30,6 +30,16 @@ She was ill and then paused; the recalls of 5-10, 14 and 15 November went unansw
 | 11-14 | Model (module 5) | Bộ não thay được; đổi model không mất note hay ký ức |
 | 11-15 | Chia việc (module 8) | Bản sao làm một mẩu rồi trả về một câu; nó không hỏi lại chị được |
 
+## 2026-11-17 · module 3 · old conversations are found by exact words
+
+**Daily learning**
+
+**Hôm nay:** Làm sao em tìm lại được đúng câu chị nói từ mấy tuần trước?
+
+Bài này ở module 3 — bộ nhớ. Mọi cuộc nói chuyện giữa chị và em được lưu vào một tệp cơ sở dữ liệu (SQLite — một tệp chứa dữ liệu, mở ra đọc và tìm lại được) trên máy chủ, không nằm trong note nào. Trong tệp đó em tìm bằng full-text search (tìm theo đúng chữ đã gõ, không theo nghĩa). Nên nếu chị nhớ đúng một từ mình đã dùng — "tạm dừng", "FatSecret", một con số — em ra ngay; nếu chị kể lại bằng từ khác, em dễ trượt. Cách chắc ăn: đưa em một từ chị chắc chắn đã gõ.
+
+**Việc 2 phút:** Nhắn em trong topic này: "Tìm trong lịch sử nói chuyện giúp chị câu chị nhắn về việc tạm dừng bài học hồi đầu tháng 11, từ khoá: tạm dừng." Rồi nhắn lại đúng ý đó nhưng thay từ khoá bằng "lúc chị nghỉ ốm" và so hai lần: lần đầu phải ra đúng ngày, lần sau có thể không ra — đó chính là bài học.
+
 ## 2026-11-16 · module 3 · memory is read once at session start
 
 **Daily learning**
