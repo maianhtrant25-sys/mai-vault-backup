@@ -28,6 +28,7 @@
 - [[Logs/2026-11-04]] - memory lesson did not land; next lesson re-teaches the three stores
 - [[Logs/2026-11-11]] - lessons paused for three days; automatic resume tick created
 - [[Logs/2026-11-16]] - recap of the lessons whose evening recall went unanswered (11-05 to 11-15)
+- [[Logs/2026-11-17]] - lessons paused for her trip; restart left to her own word
 
 ## Tasks
 
