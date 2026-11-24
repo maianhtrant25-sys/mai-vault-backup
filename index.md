@@ -29,6 +29,7 @@
 - [[Logs/2026-11-11]] - lessons paused for three days; automatic resume tick created
 - [[Logs/2026-11-16]] - recap of the lessons whose evening recall went unanswered (11-05 to 11-15)
 - [[Logs/2026-11-17]] - lessons paused for her trip; restart left to her own word
+- [[Logs/2026-11-24]] - Japan shopping list captured in the vault
 
 ## Tasks
 
@@ -53,6 +54,7 @@
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
 - [[Knowledge/Hermes masterclass - course map]] - the 10-module Hermes Agent Masterclass, the order Mai follows it in, and a one-line glossary of the terms she meets in the videos
 - [[Knowledge/Lessons - Hermes masterclass]] - full text of each daily AI lesson, newest first, kept apart from the chat (maintained by the 10:00 lesson job)
+- [[Knowledge/Japan shopping list]] - Mai's ten-item shopping list for the Japan trip, as dictated, with the two items she flagged "buy now"
 
 ## Bases
 

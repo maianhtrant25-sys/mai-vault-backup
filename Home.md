@@ -30,6 +30,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 - [[Logs/2026-11-11]] - lessons paused 3 days; auto-resume on 14/11
 - [[Logs/2026-11-16]] - recap of the unanswered evenings
 - [[Logs/2026-11-17]] - lessons paused for her trip
+- [[Logs/2026-11-24]] - Japan shopping list captured
 
 ## Bases (live views)
 
