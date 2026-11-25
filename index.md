@@ -30,6 +30,7 @@
 - [[Logs/2026-11-16]] - recap of the lessons whose evening recall went unanswered (11-05 to 11-15)
 - [[Logs/2026-11-17]] - lessons paused for her trip; restart left to her own word
 - [[Logs/2026-11-24]] - Japan shopping list captured in the vault
+- [[Logs/2026-11-25]] - Japan shopping list extended with Haori and a water bottle
 
 ## Tasks
 

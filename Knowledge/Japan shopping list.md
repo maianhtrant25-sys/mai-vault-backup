@@ -5,12 +5,12 @@ tags:
   - shopping
   - japan
 ai-first: true
-summary: Mai's shopping list for the Japan trip - ten items as dictated, with the two she flagged "buy now".
+summary: Mai's shopping list for the Japan trip - twelve items as dictated, with the two she flagged "buy now".
 ---
 
 ## For future agent
 
-Mai dictated this list in the chat on 2026-11-24 ("Lưu lại list mua đồ ở nhật trong vault cho chị") and asked for it to live in the vault so she can read it on her phone while shopping. The ten items are written as she said them, brand names untouched; only two plain spelling slips were corrected ("suncreen" → sunscreen, "cleasing" → cleansing). Nothing here is priced, verified against a shop or ordered by shop location - it is her list, not a buying guide. When she adds items, append under the next number and never renumber the existing ones.
+Mai dictated this list in the chat on 2026-11-24 ("Lưu lại list mua đồ ở nhật trong vault cho chị") and asked for it to live in the vault so she can read it on her phone while shopping; two more items (11-12) were added the next night. The items are written as she said them, brand names untouched; only two plain spelling slips were corrected ("suncreen" → sunscreen, "cleasing" → cleansing). Nothing here is priced, verified against a shop or ordered by shop location - it is her list, not a buying guide. When she adds items, append under the next number and never renumber the existing ones.
 
 ## Shopping list
 
@@ -24,10 +24,13 @@ Mai dictated this list in the chat on 2026-11-24 ("Lưu lại list mua đồ ở
 8. **Cotton pad — must buy now**
 9. Attenir cleansing oil (makeup remover)
 10. Mask lululun (Giang - Chi)
+11. Haori — *as dictated; a haori is the traditional Japanese hip-length jacket, not a brand*
+12. Bình đựng nước (water bottle)
 
 ## 🔍 Flags and open points
 
 - **Urgent, in her own words:** items 4 and 8 ("buy now" / "must buy now").
 - **Item 10 carries two names, "Giang - Chi"** — whether that means two recipients, a gift for two people, or one person with two names is not established; ask before buying in quantity.
 - **"Kose l"** may be a product line letter (L) rather than a separate product; ask before choosing between Kose variants.
+- **Item 11 "Haori"** is read as the garment (a traditional Japanese hip-length jacket), not a brand; no colour, size or shop given.
 - No quantities, sizes or budget were given for any item.
