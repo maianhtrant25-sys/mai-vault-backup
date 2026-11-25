@@ -21,6 +21,8 @@ kanban-plugin: board
 	Fetch, parse, write the day's note, expose trends through a Bases view; the weekly review cron into `Reviews/` is part of it. See [[Build the health data ingest]].
 - [ ] 🟡 **Source the SBV central rate for USD/VND** · @TBD
 	The State Bank of Vietnam portal is a JavaScript app and returns an application error to our IPs; the daily digest ships the CBR cross plus Vietcombank instead. Options: a rate API with SBV coverage, a Vietnamese news mirror, or proxying the SBV page. See [[Projects/Currency rates]].
+- [ ] 🟡 **Buy the tripod in Kyoto — today** · @2026-11-25
+	Item 14 on the Japan shopping list; she wants it bought on 2026-11-25 while in Kyoto. No model, mount (phone or camera) or budget given. See [[Knowledge/Japan shopping list]].
 
 ## 🔨 In Progress
 
