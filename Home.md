@@ -14,6 +14,7 @@ Navigation hub for the `mai-vault` Obsidian vault, initialized 2026-10-15. It ca
 
 - [[_CLAUDE.md]] - operating manual for this vault (read first)
 - [[index]] - catalog of every page, grouped by folder
+- [[Knowledge/Japan shopping list]] - her live Japan shopping list (18 items: cosmetics, clothes, medicines)
 - [[log]] - how the operation log works; entries live in `Logs/YYYY-MM-DD.md`
 - [[Logs/2026-10-15]] - this vault's initialization entry
 - [[Logs/2026-10-16]] - visual formatting rules (A-G) added and applied to three existing notes

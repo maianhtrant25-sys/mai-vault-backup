@@ -55,7 +55,7 @@
 - [[Knowledge/Selftest 2026-10-14]] - disposable self-test artifact written by the Hermes agent during deployment verification; safe to delete
 - [[Knowledge/Hermes masterclass - course map]] - the 10-module Hermes Agent Masterclass, the order Mai follows it in, and a one-line glossary of the terms she meets in the videos
 - [[Knowledge/Lessons - Hermes masterclass]] - full text of each daily AI lesson, newest first, kept apart from the chat (maintained by the 10:00 lesson job)
-- [[Knowledge/Japan shopping list]] - Mai's ten-item shopping list for the Japan trip, as dictated, with the two items she flagged "buy now"
+- [[Knowledge/Japan shopping list]] - Mai's Japan shopping list, now eighteen items: what she dictated plus the medicines and supplements added on 2026-11-25
 
 ## Bases
 
